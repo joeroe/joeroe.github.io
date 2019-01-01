@@ -18,10 +18,29 @@ author:
   avatar: "/images/avatar.png"
   bio: "Computational archaeologist, prehistorian, R nerd."
   location: "Copenhagen, Denmark"
+  links:
+    - label: "jwg983@hum.ku.dk"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jwg983@hum.ku.dk"
+    - label: "0000-0002-1011-1244"
+      icon: "ai ai-fw ai-orcid"
+      url: "https://orcid.org/0000-0002-1011-1244"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar"
+      url: "https://scholar.google.dk/citations?user=asBKJCwAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/joeroe"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/joeroe90"
+    - label: "Wikipedia"
+      icon: "fab fa-fw fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/User:Joe_Roe"
  
+# Twitter cards
 twitter:
   username: "joeroe90"
-github_username:  joeroe
 
 # Content types
 collections:
