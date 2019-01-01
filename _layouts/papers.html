@@ -1,0 +1,14 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign papers = site[page.collection] | sort: 'year' | reverse %}
+
+<ul>
+{% for paper in papers %}
+<li>{{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }} {{paper.year}}. <a href="{{ paper.url }}">{{paper.title}}</a>. <cite>{{paper.journal}}</cite>.</li>
+{% endfor %}
+</ul>
+
