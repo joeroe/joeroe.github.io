@@ -1,8 +1,4 @@
 main:
-  - title: "Home"
-    url: /home/
-  - title: "CV"
-    url: /cv/
   - title: "Code"
     url: /code/
   - title: "Papers"
@@ -11,3 +7,7 @@ main:
     url: /posters/
   - title: "Talks"
     url: /talks/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /cv/
