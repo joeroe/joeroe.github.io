@@ -7,7 +7,5 @@ main:
     url: /posters/
   - title: "Talks"
     url: /talks/
-  - title: "Blog"
-    url: /blog/
   - title: "CV"
     url: /cv/
