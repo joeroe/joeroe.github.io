@@ -1,0 +1,14 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign code = site[page.collection] | sort: 'year' | reverse %}
+
+<ul>
+{% for program in code %}
+<li><a href="{{ program.url }}">{{program.name}}</a></li>
+{% endfor %}
+</ul>
+
