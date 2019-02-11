@@ -3,7 +3,10 @@ authors: "Jones, M. D., Abu-Jaber, N., AlShdaifat, A., Baird, D., Cook, B. I., C
 authors_short: "Jones et al."
 year: 2019
 title: "20,000 years of societal vulnerability and adaptation to climate change in southwest Asia"
-journal: WIREs Water (in press)
+journal: WIREs Water
+volume: 2019
+issue: e1330
+doi: 10.1002/wat2.1330
 ---
 
 ## Abstract
@@ -24,3 +27,8 @@ of how modelling can improve our understanding of past climate impacts and assoc
 that by appreciating a given locale's place in the regional hydroscape, be it an
 archaeological site or palaeoenvironmental archive, more robust links to climate
 can be made where appropriate and, interpretations drawn will demand the resolution of factors acting across multiple scales.
+
+## Full text
+
+* [Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/wat2.1330) (open access)
+* [Self-archive postprint](/pdf/Jones_et_al_2019.pdf) (PDF, 4.78 MB)
