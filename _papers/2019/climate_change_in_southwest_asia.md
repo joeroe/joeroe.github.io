@@ -4,8 +4,9 @@ authors_short: "Jones et al."
 year: 2019
 title: "20,000 years of societal vulnerability and adaptation to climate change in southwest Asia"
 journal: WIREs Water
-volume: 2019
-issue: e1330
+volume: 6
+issue: 2
+pages: e1330
 doi: 10.1002/wat2.1330
 ---
 
