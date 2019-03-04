@@ -70,6 +70,11 @@ defaults:
       type: "papers"
     values:
       layout: "paper"
+  - scope:
+      path: ""
+      type: "posters"
+    values:
+      layout: "poster"
 
 # Breadcrumbs
 breadcrumbs: true
