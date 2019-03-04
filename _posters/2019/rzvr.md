@@ -9,6 +9,6 @@ conference: "the British Association for Near Eastern Archaeology (BANEA) annual
 
 ## Download
 
-* [Low resolution version](/pdf/Poster_BANEA2019_small.pdf) (PDF, 877 KB)
-* [High resolution version](/pdf/Poster_BANEA2019.pdf) (PDF, 77.4 MB)
+* [Low resolution poster](/pdf/Poster_BANEA2019_small.pdf) (PDF, 877 KB)
+* [High resolution poster](/pdf/Poster_BANEA2019.pdf) (PDF, 77.4 MB)
 * [Source code](https://github.com/joeroe/rzvr_poster) (GitHub)
