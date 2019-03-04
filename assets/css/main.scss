@@ -10,3 +10,18 @@
 @import "https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"; // academicons
 
 $masthead-link-color: #dd3300;
+$footer-background-color: #ffffff;
+
+.author__name {
+	display: none !important;
+}
+
+.sidebar {
+	opacity: 1;
+	color: #666;
+}
+
+.page__footer {
+	background: #fff;
+	color: #666 !important;
+}
