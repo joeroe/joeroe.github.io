@@ -75,6 +75,11 @@ defaults:
       type: "posters"
     values:
       layout: "poster"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
 
 # Breadcrumbs
 breadcrumbs: true
