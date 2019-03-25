@@ -67,6 +67,11 @@ defaults:
       author_profile: true
   - scope:
       path: ""
+      type: "code"
+    values:
+      layout: "code"
+  - scope:
+      path: ""
       type: "papers"
     values:
       layout: "paper"
