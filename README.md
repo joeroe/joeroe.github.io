@@ -1,1 +1,1 @@
-This is the source repository for the [GitHub Pages](https://pages.github.com/) website at <https://joeroe.io>.
+This is the source repository for the [GitHub Pages](https://pages.github.com/) website at <https://joeroe.io>. It uses [jekyll](https://jekyllrb.com/) and the [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
