@@ -7,6 +7,6 @@ preview: "/images/banea2015_poster.jpg"
 conference: "the British Association for Near Eastern Archaeology (BANEA) annual conference, London"
 ---
 
-## Download
+## Links
 
 * [Poster](/pdf/Poster_BANEA2015.pdf) (PDF, 538 KB)

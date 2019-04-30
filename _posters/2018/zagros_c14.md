@@ -7,7 +7,7 @@ preview: "/images/zagros_c14_poster.jpg"
 conference: "the British Association for Near Eastern Archaeology (BANEA) annual conference, Liverpool, 2019, and the KU Archaeology Day"
 ---
 
-## Download
+## Links
 
 * [Poster](/pdf/Poster_KUArch2018.pdf) (PDF, 12.9 MB)
 * [Source code](https://github.com/joeroe/zagrosc14) (GitHub)

@@ -7,7 +7,7 @@ preview: "/images/greener_poster.jpg"
 conference: "Unravelling the Palaeolithic, Southhampton"
 ---
 
-## Download
+## Links
 
 * [Low resolution poster](/pdf/Poster_Unravelling2016_small.pdf) (PDF, 420 KB)
 * [High resolution poster](/pdf/Poster_Unravelling2016.pdf) (PDF, 5.84 MB)
