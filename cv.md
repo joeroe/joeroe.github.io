@@ -84,6 +84,8 @@ __AHRC__
 
 ## Publications
 
+*See [papers](/papers).*
+
 ## Field research
 
 `2015–2018`
@@ -136,7 +138,14 @@ __*Papers from the Institute of Archaeology*__
 
 ## Conference, seminar & workshop participation
 
+*See [talks](/talks)*.
+
 ## Conference organisation
+
+`2019`
+__[Computer Applications & Quantitative Methods in Archaeology (CAA) 2019](https://2019.caaconference.org/), Kraków__
+* Session organiser (with Francesco Carrer) 
+* S06, *Recent advances in spatial statistics for archaeology*
 
 `2014`
 __[Postgraduate Zooarchaeology Forum (PZAF) 2014](https://pzaf2014.wordpress.com/), London__
