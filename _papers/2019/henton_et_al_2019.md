@@ -1,6 +1,6 @@
 ---
-authors: "Elizabeth Henton, **Joe Roe**, Louise Martin, Andrew Garrard, Oliver Boles, Jamie Lewis, Matthew Thirlwall, and Anne-Lise Jourdon"
-authors_short: "Henton, E., **Roe, J.**, Martin, L., Garrard, A., Boles, O., Lewis, J., Thirlwall, M., & Jourdon, A-L."
+authors: "Elizabeth Henton, Joe Roe, Louise Martin, Andrew Garrard, Oliver Boles, Jamie Lewis, Matthew Thirlwall, and Anne-Lise Jourdon"
+authors_short: "Henton, E., Roe, J., Martin, L., Garrard, A., Boles, O., Lewis, J., Thirlwall, M., & Jourdon, A-L."
 year: 2019
 title: "Epipalaeolithic and Neolithic gazelle hunting in the Badia of north-east Jordan. Reconstruction of seasonal movements of herds by stable isotope and dental microwear analyses"
 journal: Levant
