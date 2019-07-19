@@ -92,6 +92,10 @@ defaults:
 # Breadcrumbs
 breadcrumbs: true
 
+# Home page pagination
+paginate: 3
+paginate_path: /page:num/
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.16.5"
