@@ -35,7 +35,7 @@ All archaeologists use computer programs as tools.
 But crucially, for computational archaeologists, computer programs are also our material.
 We study computer programs in the way that zooarchaeologists study animal bones or archaeobotanists study plants – not as objects in themselves (as a computer scientist would), but as a means for making inferences about the human past.
 
-How can computer programs, a thoroughly modern artefact, be material for archaeological study? Unless you are doing [software archaeology](https://en.wikipedia.org/wiki/Software_archaeology)[^Recent research in [archaeogaming](https://archaeogaming.com/), for example.] – not directly.
+How can computer programs, a thoroughly modern artefact, be material for archaeological study? Unless you are doing [software archaeology](https://en.wikipedia.org/wiki/Software_archaeology)[^1] – not directly.
 Computational archaeologists need something that mediates their material (computer programs) and the phenomena they want to make inferences about (the past).
 This is where comparch's strong association with statistics (mediation through data) and formal modelling (mediation through theory) enters the picture.
 It is also a point of divergence.
@@ -62,7 +62,7 @@ Does it make sense to delineate computational archaeology as a distinct branch o
 I would argue that it is more than an arbitrary carving out of territory.
 Digital archaeologists can use computerised tools to further archaeological understanding through any number of conventional or innovative intellectual frameworks.
 Computational archaeologists focus narrowly on computation as a basis for inference.
-But it is difficult to argue against the proposition *all computational archaeologists are digital archaeologists*, unless you can find somebody still working purely with pen and paper or an analog calculator.[^Could you still call them a computational archaeologist? I'd argue yes – they are just using themselves as the computer, in the [original sense of the word](https://en.wikipedia.org/wiki/Computer_(job_description))]
+But it is difficult to argue against the proposition *all computational archaeologists are digital archaeologists*, unless you can find somebody still working purely with pen and paper or an analog calculator.[^2]
 We are archaeologists whose research is inseparable from digital technology, after all.
 
 ## Archaeoinformatics, data science, and archaeostatistics
@@ -82,3 +82,8 @@ It is also not the most compoundable phrase: are we doing archaeodata science? D
 *Archaeostatistics* is an [older term](https://en.wikipedia.org/wiki/Data_science) which sadly never seems to have caught on.
 I'd tend to see it as a synonym of computational archaeology, made somewhat obsolete by the fact that statistics is rarely done without a computer these days;
 a handy shorthand for *analytic computational archaeology*, perhaps.
+
+---
+
+[^1]: Recent research in [archaeogaming](https://archaeogaming.com/), for example.
+[^2]: Could you still call them a computational archaeologist? I'd argue yes – they are just using themselves as the computer, in the [original sense of the word](https://en.wikipedia.org/wiki/Computer_(job_description))
