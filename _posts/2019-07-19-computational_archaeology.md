@@ -41,7 +41,7 @@ This is where comparch's strong association with statistics (mediation through d
 It is also a point of divergence.
 To borrow Ullah's terminology, *analytic* computational archaeology makes inductive inferences from data, whilst *generative* computational archaeology makes deductive inferences from simulation.
 They differ markedly in theory and in practice.
-What unites these sub-branches^[Or sub-sub-sub-branches?] is the use of computation as the primary material for understanding the human past.
+What unites these sub-branches[^2] is the use of computation as the primary material for understanding the human past.
 
 This definition still leaves room for a diverse set of scientific practices.
 A computational archaeologist could be doing straightforward descriptive statistics, classical hypothesis testing, Bayesian inference, or any number of other species of modelling;
@@ -62,7 +62,7 @@ Does it make sense to delineate computational archaeology as a distinct branch o
 I would argue that it is more than an arbitrary carving out of territory.
 Digital archaeologists can use computerised tools to further archaeological understanding through any number of conventional or innovative intellectual frameworks.
 Computational archaeologists focus narrowly on computation as a basis for inference.
-But it is difficult to argue against the proposition *all computational archaeologists are digital archaeologists*, unless you can find somebody still working purely with pen and paper or an analog calculator.[^2]
+But it is difficult to argue against the proposition *all computational archaeologists are digital archaeologists*, unless you can find somebody still working purely with pen and paper or an analog calculator.[^3]
 We are archaeologists whose research is inseparable from digital technology, after all.
 
 ## Archaeoinformatics, data science, and archaeostatistics
@@ -86,4 +86,5 @@ a handy shorthand for *analytic computational archaeology*, perhaps.
 ---
 
 [^1]: Recent research in [archaeogaming](https://archaeogaming.com/), for example.
-[^2]: Could you still call them a computational archaeologist? I'd argue yes – they are just using themselves as the computer, in the [original sense of the word](https://en.wikipedia.org/wiki/Computer_(job_description))
+[^2]: Or sub-sub-sub-branches?
+[^3]: Could you still call them a computational archaeologist? I'd argue yes – they are just using themselves as the computer, in the [original sense of the word](https://en.wikipedia.org/wiki/Computer_(job_description))
