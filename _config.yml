@@ -65,6 +65,11 @@ defaults:
       author_profile: true
   - scope:
       path: ""
+      type: "posts"
+    values:
+      layout: "single"
+  - scope:
+      path: ""
       type: "code"
     values:
       layout: "code"
