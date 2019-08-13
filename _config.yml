@@ -44,6 +44,8 @@ twitter:
 collections:
   code:
     output: true
+  datasets:
+    output: true
   papers:
     output: true
   papers:
@@ -73,6 +75,11 @@ defaults:
       type: "code"
     values:
       layout: "code"
+  - scope:
+      path: ""
+      type: "datasets"
+    values:
+      layout: "dataset"
   - scope:
       path: ""
       type: "papers"
