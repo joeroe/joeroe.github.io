@@ -5,8 +5,8 @@ year: 2019
 title: "Epipalaeolithic and Neolithic gazelle hunting in the Badia of north-east Jordan. Reconstruction of seasonal movements of herds by stable isotope and dental microwear analyses"
 journal: Levant
 volume: 50 
-issue: 1
-pages: 1–13 
+issue: 2
+pages: 127-172
 doi: 10.1080/00758914.2019.1598764
 ---
 
