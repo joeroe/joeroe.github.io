@@ -40,7 +40,7 @@ __UCL Institute of Archaeology__
 
 `2008–2011`
 __University of Durham__
-* BA Anthropology and Archaeology (1^^st^^ class hons.)
+* BA Anthropology and Archaeology (1<sup>st</sup> class hons.)
 * Dissertation: *Spatial analysis of intra-site surface collection data from a Cucuteni-Tripolye mega-site*
 * Subjects studied: archaeological method and theory, prehistoric archaeology, classical archaeology, landscape archaeology, biomolecular archaeology, cultural anthropology, anthropology of science, biological anthropology, primatology, human behavioural ecology.
 
@@ -84,13 +84,32 @@ __AHRC__
 
 ## Publications
 
-*See [papers](/papers).*
+{% assign papers = site.papers | sort: 'year' | reverse %}
+{% for paper in papers %}
+* {{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "**Roe, J.**" }} {{ paper.year }}. {{ paper.title }}. *{{ paper.journal }}* {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %}{% if paper.pages %}: {{ paper.pages }}{% endif %}. {% if paper.doi %}[doi:{{ paper.doi }}](https://doi.org/{{ paper.doi }}){% endif %}
+{% endfor %}
 
-## Field research
+## Software & datasets
+
+{% assign comps = site.datasets | sort: 'year' | reverse %}
+{% for comp in comps %}
+* {{ comp.authors_short | default: comp.authors | replace: "Roe, J.", "**Roe, J.**" }} {{ comp.year }}. {{ comp.title }}. *{{ comp.repository }}*. {% if comp.doi %}[doi:{{ comp.doi }}](https://doi.org/{{ comp.doi }}){% endif %}
+{% endfor %}
+
+## Field projects
+
+`2019`
+__[Shubayqa Archaeological Project](https://shubeika.ccrs.ku.dk/)__
+* Co-director (survey)
 
 `2015–2018`
-__[Shubayqa Archaeological Project](https://shubeika.ccrs.ku.dk/)__
+__Shubayqa Archaeological Project__
 * Archaeologist/Supervisor
+* Survey & excavation
+
+`2018`
+__[Ancient Socioecological Systems in Oman (ASOM) project](https://u.osu.edu/asomproject/)__
+* Archaeologist
 * Survey & excavation
 
 `2015`
@@ -138,7 +157,10 @@ __*Papers from the Institute of Archaeology*__
 
 ## Conference, seminar & workshop participation
 
-*See [talks](/talks)*.
+{% assign presentations = site.talks | concat: site.posters | sort: 'year' | reverse %}
+{% for presentation in presentations %}
+* {{ presentation.authors_short | default: presentation.authors | replace: "Roe, J.", "**Roe, J.**" }} {{ presentation.year }}. *{{ presentation.title }}*{% if presentation.preview %} (poster){% endif %}. Presented at {{ presentation.conference }}.
+{% endfor %}
 
 ## Conference organisation
 
@@ -161,7 +183,7 @@ __UCL Institute of Archaeology__
 `2014–2016`
 __[The Brilliant Club](https://www.thebrilliantclub.org/)__
 * Tutor
-* As a Brilliant Club tutor, I have developed an intensive tutorial course based on my PhD research and delivered it to groups of high performing pupils in low participation schools across London.
+* As a Brilliant Club tutor, I developed an intensive tutorial course based on my PhD research and delivered it to groups of high performing pupils in low participation schools across London.
 
 `2015`
 __Petrie Museum of Egyptian Archaeology__
