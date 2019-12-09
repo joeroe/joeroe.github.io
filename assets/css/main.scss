@@ -25,3 +25,10 @@ $footer-background-color: #ffffff;
 	background: #fff;
 	color: #666 !important;
 }
+
+// Disable URLs after links for print
+@media print {
+   a:after {
+      content: '' !important;
+  } 
+}
