@@ -4,8 +4,14 @@ layout: single
 
 <p>
 {{ page.authors }}
+{% if page.book %}
+<br />In {{ page.editor }} (ed.), <cite>{{ page.book }}</cite>, pp. {{ page.pages }}.
+{% else %}
 <br /><cite>{{ page.journal }}</cite> {{ page.volume }}({{ page.issue }}): {{ page.pages }}
+{% endif %}
+{% if paper.doi %}
 <br /><a href="https://doi.org/{{ page.doi }}">doi:{{ page.doi }}</a>
+{% endif %}
 </p>
 
 {{ content }}
