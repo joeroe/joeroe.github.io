@@ -175,6 +175,10 @@ __[Postgraduate Zooarchaeology Forum (PZAF) 2014](https://pzaf2014.wordpress.com
 
 ## Teaching & public engagement
 
+`2020`
+__University of Pisa__
+* [Winter School: R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/)
+
 `2015–2016`
 __UCL Institute of Archaeology__
 * Postgraduate Teaching Assistant
