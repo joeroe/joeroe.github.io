@@ -1,6 +1,6 @@
 ---
 authors: "Shokouh Khosravi, Patrick Nørskov Pedersen, Sajjad Alibaigi, Mohsen Heydari Dastenaei, Joe Roe, Hojjat Darabi, Tobias Richter, and Peder Mortensen"
-authors_short: "Khosravi, S., Nørskov Pedersen, P., Alibaigi, S., Haydari Dastenaei, M., Roe, J., Darabi, H., Richter, T., & Mortensen, P."
+authors_short: "Khosravi, S., Pedersen, P. N., Alibaigi, S., Haydari Dastenaei, M., Roe, J., Darabi, H., Richter, T., & Mortensen, P."
 title: "The Razavar Valley in the Neolithic Period: archaeological survey in the north of Kermanshah Province"
 conference: "'Revisiting the Hilly Flanks: the Epipalaeolithic and Neolithic periods in the eastern Fertile Crescent, Copenhagen"
 year: 2020
