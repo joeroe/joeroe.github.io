@@ -1,5 +1,5 @@
 ---
-title: Cirriculum Vitae
+title: Curriculum Vitae
 permalink: /cv/
 layout: single
 ---
@@ -77,7 +77,7 @@ __AHRC__
 ## Research interests
 
 * Statistics and computational methods in archaeology
-* Quantitive approaches to human palaeo-ecology
+* Quantitative approaches to human palaeo-ecology
 * Late Palaeolithic and Neolithic of Southwest Asia, Eastern Europe and the Eurasian steppe
 * Archaeological survey and spatial analysis
 * Cultural evolution and the application of evolutionary theory to archaeology
