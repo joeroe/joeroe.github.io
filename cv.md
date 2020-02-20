@@ -27,21 +27,21 @@ __Department of Cross-Cultural and Regional Studies, University of Copenhagen__
 `2013–present`
 __UCL Institute of Archaeology__
 * MPhil/PhD in Archaeology
-* Thesis: [Modelling prehistoric hunting strategies in Jordan](https://www.ucl.ac.uk/archaeology/people/research/roe). Expected submission 2019.
-* Supervisors: [Dr. Louise Martin](https://www.ucl.ac.uk/archaeology/people/staff/lmartin), [Prof. Andrew Bevan](https://www.ucl.ac.uk/archaeology/people/staff/bevan), and [Dr. Andrew Garrard](https://www.ucl.ac.uk/archaeology/people/staff/garrard).
-* Supported by [Leverhulme Trust Research Project Grant RPG-2013-223](https://www.leverhulme.ac.uk/funding/grant-schemes/research-project-grants); part of the [Prehistoric Hunting Strategies in Jordan project](https://www.ucl.ac.uk/archaeology/research/directory/prehistoric-hunting-jordan) project.
+* Thesis: [Modelling prehistoric hunting strategies in Jordan](https://www.ucl.ac.uk/archaeology/people/research/roe). Expected submission 2020.
+* Supervisors: [Dr. Louise Martin](https://www.ucl.ac.uk/archaeology/people/louise-martin-reader-zooarchaeology), [Prof. Andrew Bevan](https://www.ucl.ac.uk/archaeology/people/andrew-bevan-professor-spatial-and-comparative-archaeology), and [Dr. Andrew Garrard](https://www.ucl.ac.uk/archaeology/people/andrew-garrard-associate-professor-early-prehistory).
+* Supported by Leverhulme Trust Research Project Grant RPG-2013-223; part of the [Prehistoric Hunting Strategies in Jordan project](https://www.ucl.ac.uk/archaeology/research/directory/prehistoric-hunting-strategies-jordan) project.
 
 `2012–2013`
 __UCL Institute of Archaeology__
 * MA Archaeology (Distinction)
 * Taught Masters degree funded by an AHRC Research Preparation Award.
-* Dissertation: *Cultural phylogeny of kurgan burial mounds in the west Eurasian steppe* (Supervisor by [Prof. Stephen Shennan](https://www.ucl.ac.uk/archaeology/people/staff/shennan)).
+* Dissertation: *Cultural phylogeny of kurgan burial mounds in the west Eurasian steppe* (supervised by [Prof. Stephen Shennan](https://www.ucl.ac.uk/archaeology/people/stephen-shennan-professor-theoretical-archaeology))
 * Subjects studied: GIS in archaeology, spatial analysis, evolution of human cognition, archaeological theory.
 
 `2008–2011`
 __University of Durham__
 * BA Anthropology and Archaeology (1<sup>st</sup> class hons.)
-* Dissertation: *Spatial analysis of intra-site surface collection data from a Cucuteni-Tripolye mega-site*
+* Dissertation: *Spatial analysis of intra-site surface collection data from a Cucuteni-Tripolye mega-site* (supervised by [Prof. John Chapman](https://www.dur.ac.uk/archaeology/staff/?id=150))
 * Subjects studied: archaeological method and theory, prehistoric archaeology, classical archaeology, landscape archaeology, biomolecular archaeology, cultural anthropology, anthropology of science, biological anthropology, primatology, human behavioural ecology.
 
 `2001–2008`
