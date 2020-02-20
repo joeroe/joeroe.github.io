@@ -175,6 +175,12 @@ __[Postgraduate Zooarchaeology Forum (PZAF) 2014](https://pzaf2014.wordpress.com
 
 ## Teaching & public engagement
 
+`2018–present`
+__Department of Cross-Cultural and Regional Studies, University of Copenhagen__
+* Lecturer on courses:
+  * BA: "Practical Archaeology 1" (*Arkæologisk praksis 1*, [HNAB0100FU](https://kurser.ku.dk/course/hnab0100fu/)), "Practical Archaeology 2" (*Arkæologisk praksis 2*, [HNAB0102EU](https://kurser.ku.dk/course/hnab0102eu/)), "Science and Theory of Science" (*Videnskabsteori*, [HTOR0102FU](https://kurser.ku.dk/course/htor0102fu/))
+  * KA: "Theory and Method in Near Eastern Archaeology" ([HNAK0101EU](https://kurser.ku.dk/course/hnak0101eu/)), "Environments and landscapes in the archaeological record of southwest Asia" ([HNAB0102FU](https://kurser.ku.dk/course/hnab0102fu/)), "Neolithic to Early Urban Periods in the Near East" ([HNAK0102EU](https://kurser.ku.dk/course/hnak0102eu/)), "Project-based course" ([HNAK0100FU](https://kurser.ku.dk/course/hnak0100fu/))
+
 `2020`
 __University of Pisa__
 * [Winter School: R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/)
