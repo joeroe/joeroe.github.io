@@ -14,7 +14,7 @@ repository: "joeroe/joeroe.github.io"
 author:
   name: "Joe Roe"
   avatar: "/images/avatar.png"
-  bio: "Computational archaeologist, prehistorian. Researcher at Københavns Universitet."
+  bio: "Computational archaeologist, prehistorian. Researcher at the University of Copenhagen."
   location: "Copenhagen, Denmark"
   links:
     - label: "jwg983@hum.ku.dk"
