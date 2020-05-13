@@ -4,8 +4,8 @@ authors_short: "Martin, L., & Roe, J."
 year: 2020
 title: "Zooarchaeological Analyses"
 book: "Landscape History of Hadramawt: The Roots of Agriculture in Southern Arabia (RASA) Project, 1998–2008"
-editor: "Joy McCorriston and Michael J. Harrower"
-editor_short: "McCorriston, J., & Harrower, M. J."
+editors: "Joy McCorriston and Michael J. Harrower"
+editors_short: "McCorriston, J., & Harrower, M. J."
 series: "Monumenta Archaeologica 43"
 publisher: "Cotsen Institute of Archaeology Press"
 pages: 
