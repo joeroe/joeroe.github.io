@@ -4,26 +4,64 @@
 
 @charset "utf-8";
 
+// COLOURS
+$footer-background-color: #ffffff;
+$text-color: #282828;
+$masthead-link-color: #000000;
+$primary-color: #ffe600;
+
+// FONTS
+$serif: "Source Serif Pro", serif;
+$sans-serif: "Source Sans Pro", sans-serif;
+$sans-serif-narrow: "Source Sans Pro", sans-serif;
+$monoscape: "Source Code Pro", monospace;
+
+// IMPORTS
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
 @import "https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"; // academicons
 
-$masthead-link-color: #dd3300;
-$footer-background-color: #ffffff;
+// CUSTOM CSS
+.masthead {
+    border: 0;
+}
+
+.site-title {
+    font-size: $type-size-3;
+    font-weight: 900 !important;
+    padding: 0 0.2em;
+}
+
+.greedy-nav a {
+    font-weight: 600;
+}
 
 .author__name {
 	display: none !important;
 }
 
 .sidebar {
-	opacity: 1;
-	color: #666;
+    opacity: 1;
+}
+
+.author__avatar img {
+    border: 0;
+    padding: 0;
+    max-width: 200px;
+    border-radius: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
 }
 
 .page__footer {
-	background: #fff;
-	color: #666 !important;
+	color: #333333 !important;
 }
 
 // Disable URLs after links for print

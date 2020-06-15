@@ -97,7 +97,7 @@ defaults:
       layout: "talk"
 
 # Breadcrumbs
-breadcrumbs: true
+breadcrumbs: false
 
 # Home page pagination
 paginate: 3
