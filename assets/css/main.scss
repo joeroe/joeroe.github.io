@@ -8,7 +8,7 @@
 $footer-background-color: #ffffff;
 $text-color: #282828;
 $masthead-link-color: #000000;
-$primary-color: #ffe600;
+$primary-color: #edcc00;
 
 // FONTS
 $serif: "Source Serif Pro", serif;
@@ -55,6 +55,18 @@ h5,
 h6 {
     font-weight: 600;
 }
+
+/* Sticky TOC */
+/*
+.sidebar__right {
+    height: 100%;
+}
+.toc {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1rem;
+}
+*/
 
 .page__footer {
 	color: #333333 !important;

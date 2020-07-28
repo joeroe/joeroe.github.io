@@ -3,9 +3,12 @@ title: Curriculum Vitae
 permalink: /cv/
 layout: single
 toc: true
+toc_label: "Contents"
+toc_sticky: true
+classes: ""
 ---
 
-<address style="text-align: right">
+<address>
 Joe Roe<br/>
 Institut for Tværkulturelle og Regionale Studier<br/>
 Karen Blixens Plads 8<br/>
