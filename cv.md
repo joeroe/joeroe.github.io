@@ -2,6 +2,7 @@
 title: Curriculum Vitae
 permalink: /cv/
 layout: single
+toc: true
 ---
 
 <address style="text-align: right">
