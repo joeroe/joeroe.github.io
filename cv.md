@@ -76,11 +76,11 @@ __AHRC__
 
 ## Research interests
 
-* Statistics and computational methods in archaeology
-* Quantitative approaches to human palaeo-ecology
-* Late Palaeolithic and Neolithic of Southwest Asia, Eastern Europe and the Eurasian steppe
-* Archaeological survey and spatial analysis
-* Cultural evolution and the application of evolutionary theory to archaeology
+* Computational archaeology and archaeostatistics
+* Human palaeoecology
+* Palaeolithic and Neolithic of Southwest Asia, Eastern Europe and the Eurasian steppe
+* Digital recording and informatics in archaeological survey
+* Cultural evolution and evolutionary theory in archaeology
 
 ## Publications
 
@@ -104,42 +104,31 @@ __[Shubayqa Archaeological Project](https://shubeika.ccrs.ku.dk/)__
 
 `2015–2018`
 __Shubayqa Archaeological Project__
-* Archaeologist/Supervisor
-* Survey & excavation
+* Field archaeologist & supervisor
 
 `2018`
 __[Ancient Socioecological Systems in Oman (ASOM) project](https://u.osu.edu/asomproject/)__
-* Archaeologist
-* Survey & excavation
+* Field archaeologist
 
 `2015`
 __[Kharaneh IV Project](https://kharaneh.wordpress.com/)__
-* Archaeologist
-* Excavation
+* Field archaeologist
 
 `2012–2014`
 __[Tripillia Mega-Sites Project](https://www.dur.ac.uk/j.c.chapman/tripillia)__
-* Archaeologist/Supervisor
-* Survey, excavation & geoarchaeological survey
+* Field archaeologist & supervisor
 
 `2012`
 __Mirkovo Project__
 * Supervisor
-* Survey & excavation
-
-`2012`
-__[Gradski Musej Vršac](https://www.muzejvrsac.org.rs/GMVe.htm)__
-* Curatorial assistant
 
 `2009`
 __Tripillia Mega-Sites Project__
 * Trainee
-* Survey & excavation
 
 `2007`
 __York Archaeological Trust__
 * Trainee
-* Excavation
 
 ## Professional service
 
@@ -166,8 +155,7 @@ __*Papers from the Institute of Archaeology*__
 
 `2019`
 __[Computer Applications & Quantitative Methods in Archaeology (CAA) 2019](https://2019.caaconference.org/), Kraków__
-* Session organiser (with Francesco Carrer) 
-* S06, *Recent advances in spatial statistics for archaeology*
+* Session organiser (with Francesco Carrer): S06, *Recent advances in spatial statistics for archaeology*
 
 `2014`
 __[Postgraduate Zooarchaeology Forum (PZAF) 2014](https://pzaf2014.wordpress.com/), London__
@@ -180,24 +168,24 @@ __Department of Cross-Cultural and Regional Studies, University of Copenhagen__
 * Lecturer on courses:
   * BA: "Practical Archaeology 1" (*Arkæologisk praksis 1*, [HNAB0100FU](https://kurser.ku.dk/course/hnab0100fu/)), "Practical Archaeology 2" (*Arkæologisk praksis 2*, [HNAB0102EU](https://kurser.ku.dk/course/hnab0102eu/)), "Science and Theory of Science" (*Videnskabsteori*, [HTOR0102FU](https://kurser.ku.dk/course/htor0102fu/))
   * KA: "Theory and Method in Near Eastern Archaeology" ([HNAK0101EU](https://kurser.ku.dk/course/hnak0101eu/)), "Environments and landscapes in the archaeological record of southwest Asia" ([HNAB0102FU](https://kurser.ku.dk/course/hnab0102fu/)), "Neolithic to Early Urban Periods in the Near East" ([HNAK0102EU](https://kurser.ku.dk/course/hnak0102eu/)), "Project-based course" ([HNAK0100FU](https://kurser.ku.dk/course/hnak0100fu/))
+* Organiser of a two-day workshop on mobile GIS for linguistic field research
 
 `2020`
 __University of Pisa__
-* [Winter School: R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/)
+* Invited speaker: [Winter School: R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/)
 
 `2015–2016`
 __UCL Institute of Archaeology__
-* Postgraduate Teaching Assistant
-* ARCL2028 Research & Presentation Skills
+* Postgraduate Teaching Assistant: ARCL2028 Research & Presentation Skills
 
 `2014–2016`
 __[The Brilliant Club](https://www.thebrilliantclub.org/)__
 * Tutor
-* As a Brilliant Club tutor, I developed an intensive tutorial course based on my PhD research and delivered it to groups of high performing pupils in low participation schools across London.
+* Developed an intensive tutorial course based on my PhD research and delivered it to groups of high performing pupils in low participation schools across London.
 
 `2015`
 __Petrie Museum of Egyptian Archaeology__
-* Student Volunteer, 'Maths and Archaeology' workshop
+* Student Volunteer, *Maths and Archaeology* workshop
 * Outreach event for high school students organised by Dr. Alice Stevenson (Petrie Museum) and Dr. Luciano Rila (UCL Mathematics) and supported by the London Mathematical Society.
 
 ## Professional memberships
@@ -217,6 +205,10 @@ __English Wikipedia__
 `2018`
 __Kirklees Citizens Advice Bureau__
 * Gateway Advisor
+
+`2012`
+__[Gradski Musej Vršac](https://www.muzejvrsac.org.rs/GMVe.htm)__
+* Curatorial assistant
 
 `2012`
 __TPP SystmOne__
