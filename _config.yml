@@ -100,12 +100,12 @@ defaults:
 breadcrumbs: false
 
 # Home page pagination
-paginate: 3
-paginate_path: /page:num/
+# paginate: 3
+# paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.19.0"
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
