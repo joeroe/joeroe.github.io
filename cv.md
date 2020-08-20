@@ -95,9 +95,9 @@ __AHRC__
 
 ## Software & datasets
 
-{% assign comps = site.datasets | sort: 'year' | reverse %}
+{% assign comps = site.datasets | concat: site.code | sort: 'year' | reverse %}
 {% for comp in comps %}
-* {{ comp.authors_short | default: comp.authors | replace: "Roe, J.", "**Roe, J.**" }} {{ comp.year }}. {{ comp.title }}. *{{ comp.repository }}*. {% if comp.doi %}[doi:{{ comp.doi }}](https://doi.org/{{ comp.doi }}){% endif %}
+* {{ comp.authors_short | default: comp.authors | replace: "Roe, J.", "**Roe, J.**" }} {{ comp.year }}. {{ comp.title }}. {% if comp.repository %}*{{ comp.repository }}*.{% endif %} {% if comp.doi %}[doi:{{ comp.doi }}](https://doi.org/{{ comp.doi }}).{% endif %} {% if comp.website %}<{{ comp.website }}>.{% endif %}
 {% endfor %}
 
 ## Field projects

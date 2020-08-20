@@ -2,8 +2,8 @@
 authors: "Ben Marwick and Joe Roe"
 authors_short: "Marwick, B. & Roe, J."
 year: 2020
-title: "evoarchdata"
-repository: "GitHub"
+title: "evoarchdata: datasets from studies of cultural evolution in archaeology"
+website: "https://github.com/benmarwick/evoarchdata"
 doi: 
 ---
 
