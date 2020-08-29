@@ -148,7 +148,7 @@ __UCL Institute of Archaeology__
 __*Papers from the Institute of Archaeology*__
 * Editorial Assistant
 
-## Conference, seminar & workshop participation
+## Conference presentations
 
 {% assign presentations = site.talks | concat: site.posters | sort: 'year' | reverse %}
 {% for presentation in presentations %}
@@ -165,6 +165,26 @@ __[Computer Applications & Quantitative Methods in Archaeology (CAA) 2019](https
 __[Postgraduate Zooarchaeology Forum (PZAF) 2014](https://pzaf2014.wordpress.com/), London__
 * Conference organiser
 
+## Workshop & seminar participation
+
+`2019`
+__Computer Applications & Quantitative Methods in Archaeology (CAA) 2019, Kraków__
+* Roundtable discussant: S03, *Scientific Scripting Languages in Archaeology: Limits and Opportunities of Open Research*
+
+`2018`
+__Christian-Albrecht University of Kiel__
+* International Summer School, "Connecting the Dots"
+  * Development of the R package [moin: Modeling Interaction in Landscape Archaeology](https://github.com/ISAAKiel/SummerSchool_moin)
+
+`2017`
+__University of Copenhagen__
+* Shubayqa Project Workshop
+
+`2016`
+__University of Nottingham__
+* Workshop, "Near East Climate"
+  * Invited to international workshop organised by Prof. Matthew Jones, basis for publication of [Jones et al. 2019](/papers/2019/climate_change_in_southwest_asia.html).
+
 ## Teaching & public engagement
 
 `2018–present`
@@ -176,7 +196,7 @@ __Department of Cross-Cultural and Regional Studies, University of Copenhagen__
 
 `2020`
 __University of Pisa__
-* Invited speaker: [Winter School: R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/)
+* Instructor: [Winter School: R for Archaeologists](http://www.mappaproject.org/r4rchaeologists/)
 
 `2015–2016`
 __UCL Institute of Archaeology__
