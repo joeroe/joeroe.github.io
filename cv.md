@@ -90,7 +90,7 @@ __AHRC__
 
 {% assign papers = site.papers | sort: 'year' | reverse %}
 {% for paper in papers %}
-* {{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "**Roe, J.**" }} {% if paper.in_press %}in press{% else %}{{ paper.year }}{% endif %}. {{ paper.title }}. {% if paper.book %}In {{ paper.editors_short }} (eds.), *{{ paper.book }}*{% if paper.pages %}, pp. {{ paper.pages }}. {% endif %}{% else %}*{{ paper.journal }}* {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %}{% if paper.pages %}: {{ paper.pages }}. {% endif %}{% endif %}{% if paper.publisher %}{{ paper.publisher }}. {% endif %}{% if paper.doi %}[doi:{{ paper.doi }}](https://doi.org/{{ paper.doi }}){% endif %}
+* {{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "**Roe, J.**" }} {% if paper.in_press %}in press{% elsif paper.submitted %}in prep{% else %}{{ paper.year }}{% endif %}. {{ paper.title }}. {% if paper.book %}In {{ paper.editors_short }} (eds.), *{{ paper.book }}*{% if paper.pages %}, pp. {{ paper.pages }}. {% endif %}{% elsif paper.submitted %}Manuscript submitted for publication.{% else %}*{{ paper.journal }}* {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %}{% if paper.pages %}: {{ paper.pages }}. {% endif %}{% endif %}{% if paper.publisher %}{{ paper.publisher }}. {% endif %}{% if paper.doi %}[doi:{{ paper.doi }}](https://doi.org/{{ paper.doi }}){% endif %}
 {% endfor %}
 
 ## Software & datasets

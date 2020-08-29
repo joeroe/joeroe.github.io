@@ -8,7 +8,7 @@ layout: archive
 
 <ul>
 {% for paper in papers %}
-<li>{{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }} {% if paper.in_press %}in press{% else %}{{paper.year}}{% endif %}. <a href="{{ paper.url }}">{{paper.title}}</a>. {% if paper.book %}In {{ paper.editors_short }} (eds.), <cite>{{ paper.book }}</cite>{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}{% else %}<cite>{{ paper.journal }}</cite> {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %}{% if paper.pages %}: {{ paper.pages }}{% endif %}{% endif %}. {% if paper.publisher %}{{ paper.publisher }}.{% endif %}</li>
+<li>{{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }} {% if paper.in_press %}in press{% elsif paper.submitted %}in prep{% else %}{{paper.year}}{% endif %}. <a href="{{ paper.url }}">{{paper.title}}</a>. {% if paper.book %}In {{ paper.editors_short }} (eds.), <cite>{{ paper.book }}</cite>{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}{% elsif paper.submitted %}Manuscript submitted for publication{% else %}<cite>{{ paper.journal }}</cite> {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %}{% if paper.pages %}: {{ paper.pages }}{% endif %}{% endif %}. {% if paper.publisher %}{{ paper.publisher }}.{% endif %}</li>
 {% endfor %}
 </ul>
 
