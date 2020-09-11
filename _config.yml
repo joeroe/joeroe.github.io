@@ -17,9 +17,9 @@ author:
   bio: "Computational archaeologist, prehistorian. Researcher at the University of Copenhagen."
   location: "Copenhagen, Denmark"
   links:
-    - label: "jwg983@hum.ku.dk"
+    - label: "joe@joeroe.io"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:jwg983@hum.ku.dk"
+      url: "mailto:joe@joeroe.io"
     - label: "0000-0002-1011-1244"
       icon: "ai ai-fw ai-orcid"
       url: "https://orcid.org/0000-0002-1011-1244"
