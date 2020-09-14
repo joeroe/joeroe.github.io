@@ -9,8 +9,9 @@ editors_short: "McCorriston, J., & Harrower, M. J."
 series: "Monumenta Archaeologica 43"
 publisher: "Cotsen Institute of Archaeology Press"
 pages: "275–348"
+doi: "10.2307/j.ctvzgb8n3.20"
 ---
 
 ## Full text
 
-* [Cotsen Institute of Archaeology Press](https://ioa.ucla.edu/press/hadramawt) (payment required)
+* [JSTOR](https://www.jstor.org/stable/j.ctvzgb8n3.20) (subscription required)
