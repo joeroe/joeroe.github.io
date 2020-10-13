@@ -74,7 +74,7 @@ defaults:
       path: ""
       type: "code"
     values:
-      layout: "code"
+      layout: "program"
   - scope:
       path: ""
       type: "datasets"

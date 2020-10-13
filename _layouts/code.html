@@ -6,9 +6,29 @@ layout: archive
 
 {% assign code = site[page.collection] | sort: 'year' | reverse %}
 
-<ul>
+<div class="feature__wrapper">
 {% for program in code %}
-<li><a href="{{ program.url }}">{{program.title}}</a></li>
+    <div class="feature__item">
+        <div class="archive__item">
+            <div class="archive__item-teaser">
+                <a href="{{ program.url }}">
+                    {% if program.logo %}
+                    <img style="max-width: 139px;" src="{{ program.logo }}" alt="{{ program.short_name }} logo">
+                    {% else %}
+                    <img style="max-width: 139px;" src="/assets/hex.svg">
+                    {% endif %}
+                </a>
+            </div>
+            <div class="archive__item-body">
+                <h2 class="archive__item-title"><a href="{{ program.url }}">{{ program.short_name }}</a></h2>
+                <div class="archive__item-excerpt">
+                    <p>
+                        {{ program.title }}<br />
+                        <small><a href="{{ program.website }}">{{ program.website }}</a></small>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endfor %}
-</ul>
-
+</div>
