@@ -70,6 +70,8 @@ defaults:
       type: "posts"
     values:
       layout: "single"
+      share: true
+      related: true
   - scope:
       path: ""
       type: "code"
