@@ -214,6 +214,9 @@ __Petrie Museum of Egyptian Archaeology__
 
 ## Professional memberships
 
+`2020–present`
+__[Society of Research Software Engineering](https://society-rse.org/) (RSE)__
+
 `2014–present`
 __[Council for British Research in the Levant](http://cbrl.ac.uk/) (CBRL)__
 
