@@ -2,11 +2,11 @@
 title: "Computational archaeology, digital archaeology, and associated ologies"
 ---
 
-![](/images/comp_arch_euler.png)
-
 Archaeologists like to define themselves by their material.
 Asked "what do you work on?" at a conference, their response will most likely be something like [zooarchaeology](https://en.wikipedia.org/wiki/Zooarchaeology), [archaeobotany](https://en.wikipedia.org/wiki/Archaeobotany) or "pottery".
 We all also have a range of other, cross-cutting interests in certain regions, periods, theories and topics – but it's *what we look at* that largely determines our day-to-day existence.
+
+{% include figure image_path="/images/comp_arch_euler.png" alt="Computational archaeology lies at the intersection of (digital) archaeology, digital humanities, and computational sciences." caption="[Euler diagram](https://en.wikipedia.org/wiki/Euler_diagram) showing the intersection of fields that defines computational archaeology." %}
 
 For a while now, I've been calling myself a **computational archaeologist**.
 I think this neatly captures what it is I look at: data, figures, and above all, computer code.
