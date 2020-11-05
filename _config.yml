@@ -107,6 +107,8 @@ breadcrumbs: false
 
 # Build settings
 markdown: kramdown
+exclude:
+  - "*.Rmd"
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin: "contrast"
 plugins:
