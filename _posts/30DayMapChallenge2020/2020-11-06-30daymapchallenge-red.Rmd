@@ -1,0 +1,82 @@
+---
+title: "#30DayMapChallenge Day 6: Average Monthly Temperature in Southwest Asia"
+output:
+  md_document:
+    variant: markdown
+    preserve_yaml: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.path = "../../assets/30daymapchallenge2020/06-red/",
+  echo = TRUE,
+  warning = TRUE,
+  message = TRUE
+)
+```
+
+The theme for day 6 of the [#30DayMapChallenge](/2020/10/31/30daymapchallenge) is "red".
+Yesterday a made a map of [Late Quaternary Precipitation in Southwest Asia](/2020/11/05/30daymapchallenge-blue) and today I stuck to the climate theme, with an animated map of average monthly temperature in the same region.
+
+![Average Monthly Temperature in Southwest Asia](/assets/30daymapchallenge2020/06-red.png)
+
+The map was generated in R using the code below.
+View the [RMarkdown source on GitHub](https://github.com/joeroe/joeroe.github.io/blob/master/_posts/2020-11-06-30daymapchallenge-red.Rmd).
+
+```{r library}
+library("tidyverse")
+library("sf")
+library("raster")
+library("rnaturalearth")
+library("glue")
+```
+
+## Data
+
+The data is from [CHELSA](https://chelsa-climate.org/) and includes mean monthly temperatures from 1979 to 2013.
+
+```{r chelsa-data}
+chelsa_path <- "ftp://envidatrepo.wsl.ch/uploads/chelsa/chelsa_V1/timeseries/tmean"
+years <- 2000
+tibble(
+  year = rep(years, each = 12),
+  month = rep(1:12, times = length(years)),
+  url = glue("{chelsa_path}/CHELSA_tmean_{year}_{str_pad(month, 2, pad = '0')}_V1.2.1.tif")
+) %>% 
+  mutate(rast = map(paste0("/vsicurl/", url), raster)) ->
+  temperature
+
+#Crop
+sw_asia <- extent(c(25, 65, 10, 45))
+temperature$rast <- map(temperature$rast, crop, y = sw_asia)
+```
+
+As always, [Natural Earth](https://www.naturalearthdata.com/) provides the base layers.
+
+```{r ne-data, results=FALSE}
+ocean <- ne_download(scale = 10, type = "ocean", category = "physical",
+                     returnclass = "sf")
+lakes <- ne_download(scale = 10, type = "lakes", category = "physical",
+                     returnclass = "sf")
+rivers <- ne_download(scale = 10, type = "rivers_lake_centerlines_scale_rank", 
+                      category = "physical", returnclass = "sf")
+
+ocean <- st_make_valid(ocean)
+ocean <- st_crop(ocean, sw_asia)
+lakes <- st_crop(lakes, sw_asia)
+rivers <- st_crop(rivers, sw_asia)
+```
+
+## Plot
+```{r plot}
+water <- "#3288bd"
+
+temperature %>% 
+  mutate(rast = map(rast, as.data.frame, xy = TRUE)) %>% 
+  unnest(c(rast)) ->
+  tmp
+```
+```{r save, include=FALSE, eval=FALSE}
+# ggsave("../../assets/30daymapchallenge2020/06-red.png",
+#        width = 240, height = 135, units = "mm", dpi = 300)
+```
