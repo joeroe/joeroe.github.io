@@ -5,7 +5,7 @@ year: 2020
 short_name: era
 title: "era: R package for years with an era"
 website: https://era.joeroe.io
-logo: 
+logo:  "https://era.joeroe.io/reference/figures/logo.svg"
 ---
 
 **era** is an R package that provides a consistent vector representation of years with an associated calendar era or time scale. 
