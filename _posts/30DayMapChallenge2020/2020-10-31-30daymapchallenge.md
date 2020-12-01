@@ -9,7 +9,5 @@ The [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) is an e
 
 Maps are submitted under a [Twitter hashtag](https://twitter.com/hashtag/30DayMapChallenge) and collected into a [gallery](https://david.frigge.nz/30DayMapChallenge/maps.html).
 
-The maps I made for the challenge are listed below.
-Most have an archaeology or prehistory theme.
-
-* Day 5, "Blue": [Late Quaternary Precipitation in Southwest Asia](/2020/11/05/30daymapchallenge-blue)
+I only got around to making one map, for Day 5, "Blue": [Late Quaternary Precipitation in Southwest Asia](/2020/11/05/30daymapchallenge-blue).
+Next year!
