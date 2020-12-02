@@ -17,9 +17,22 @@ layout: single
 {{ page.volume }}({{ page.issue }}): {{ page.pages }}.
 {% endif %}
 {% endif %}
-{% if paper.doi %}
+{% if page.doi %}
 <br /><a href="https://doi.org/{{ page.doi }}">doi:{{ page.doi }}</a>
 {% endif %}
 </p>
 
 {{ content }}
+
+{% if page.doi %}
+<h2 id="metrics">Metrics</h2>
+<div style="column-count: 2;">
+
+    <div id="metrics-dimensions" class="__dimensions_badge_embed__" data-doi="{{ page.doi }}" data-hide-zero-citations="false" data-legend="always" data-style="small_circle"></div>
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+    <div id="metrics-altmetrics" data-badge-details="right" data-badge-type="donut" data-doi="{{ page.doi }}" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+</div>
+{% endif %}
