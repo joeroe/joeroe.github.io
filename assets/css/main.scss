@@ -22,6 +22,8 @@ $monoscape: "Source Code Pro", monospace;
 @import "https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"; // academicons
 
 // CUSTOM CSS
+
+// Layout
 .site-title {
     font-size: $type-size-3;
     font-weight: 900 !important;
@@ -47,6 +49,7 @@ $monoscape: "Source Code Pro", monospace;
     border-radius: 0;
 }
 
+// Typography
 h1,
 h2,
 h3,
@@ -56,7 +59,15 @@ h6 {
     font-weight: 600;
 }
 
-/* Sticky TOC */
+.page__content {
+    p, 
+    li, 
+    dl {
+        font-size: 0.875em;
+    }
+}
+
+// Sticky TOC
 /*
 .sidebar__right {
     height: 100%;
