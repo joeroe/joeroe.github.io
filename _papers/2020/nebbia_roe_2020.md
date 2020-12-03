@@ -2,6 +2,7 @@
 authors: "Marco Nebbia and Joe Roe"
 authors_short: "Nebbia, M., & Roe, J."
 year: 2020
+month: 7
 in_press: false
 title: "Landscape Studies"
 book: "Early Urbanism in Europe: The Trypillia Mega-Sites of the Ukrainian Forest-Steppe"

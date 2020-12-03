@@ -2,6 +2,7 @@
 authors: "Louise Martin, with a contribution by Joe Roe"
 authors_short: "Martin, L., & Roe, J."
 year: 2020
+month: 5
 title: "The Kheshiya Cattle Skull Ring: Zooarchaeological Analyses"
 book: "Landscape History of Hadramawt: The Roots of Agriculture in Southern Arabia (RASA) Project, 1998–2008"
 editors: "Joy McCorriston and Michael J. Harrower"

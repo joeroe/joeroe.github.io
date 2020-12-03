@@ -88,10 +88,15 @@ __AHRC__
 
 ## Publications
 
-{% assign papers = site.papers | sort: 'year' | reverse %}
+{% assign papers_by_year = site.papers | group_by: 'year' | sort: 'name' | reverse %}
+<ul class="citations">
+{% for year in papers_by_year %}
+{% assign papers = year.items %}
 {% for paper in papers %}
-* {{ paper.authors_short | default: paper.authors | replace: "Roe, J.", "**Roe, J.**" }} {% if paper.in_press %}in press{% elsif paper.submitted %}in prep{% else %}{{ paper.year }}{% endif %}. {{ paper.title }}. {% if paper.book %}In {{ paper.editors_short }} (eds.), *{{ paper.book }}*{% if paper.pages %}, pp. {{ paper.pages }}. {% endif %}{% elsif paper.submitted %}Manuscript submitted for publication.{% else %}*{{ paper.journal }}* {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %}{% if paper.pages %}: {{ paper.pages }}. {% endif %}{% endif %}{% if paper.publisher %}{{ paper.publisher }}. {% endif %}{% if paper.doi %}[doi:{{ paper.doi }}](https://doi.org/{{ paper.doi }}){% endif %}
+<li>{% include citation.html pub=paper %}</li>
 {% endfor %}
+{% endfor %}
+</ul>
 
 ## Software & datasets
 

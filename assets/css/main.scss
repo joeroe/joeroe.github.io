@@ -83,3 +83,9 @@ h6 {
 .altmetric-see-more-details {
     display: none;
 }
+
+// Lists of citations
+ul.citations {
+    list-style-type: none;
+    text-indent: -$indent-var;
+}

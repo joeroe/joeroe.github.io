@@ -2,6 +2,7 @@
 authors: Joe Roe
 authors_short: Roe, J.
 year: 2016
+month: 8
 title: "PIA at 25: A Retrospective"
 journal: Papers from the Institute of Archaeology
 volume: 25

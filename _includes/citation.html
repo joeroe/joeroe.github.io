@@ -1,0 +1,21 @@
+{% assign pub = include.pub %}
+
+{{ pub.authors_short | default: pub.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }} 
+{% if pub.in_press %}in press.
+{% elsif pub.submitted %}in prep.
+{% else %}{{pub.year}}.
+{% endif %}
+<a href="{{ pub.url }}">{{pub.title}}</a>. 
+{% if pub.language %}
+    [<span lang="{{ pub.language_code }}">{{pub.title_original}}</span>]
+    (in {{ pub.language }}).
+{% endif %}
+{% if pub.book %}
+    In {{ pub.editors_short }} (eds.), <cite>{{ pub.book }}</cite>{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
+{% elsif pub.submitted %}
+    Manuscript submitted for publication.
+{% else %}
+    <cite>{{ pub.journal }}</cite> {{ pub.volume }}{% if pub.issue %} ({{ pub.issue }}){% endif %}{% if pub.pages %}: {{ pub.pages }}{% endif %}.
+{% endif %}
+{% if pub.publisher %}{{ pub.publisher }}.{% endif %}
+
