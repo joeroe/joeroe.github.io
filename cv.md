@@ -18,7 +18,7 @@ Danmark
 
 ## Academic employment
 
-`2017–present`
+`2017–2020`
 __Department of Cross-Cultural and Regional Studies, University of Copenhagen__
 * Research assistant
 * Research and teaching post with the [Centre for the Study of Early Agricultural Societies](https://ccrs.ku.dk/research/centres/cseas/) (CSEAS).
