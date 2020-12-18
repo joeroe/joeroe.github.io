@@ -141,6 +141,9 @@ __York Archaeological Trust__
 
 ## Professional service
 
+* Peer review for journals: *Advances in Archaeological Practice* (1).
+* Peer review for conferences: CAA2020 (3).
+
 `2014–2016`
 __*[Papers from the Institute of Archaeology](https://www.pia-journal.co.uk/)*__
 * Senior Editor
