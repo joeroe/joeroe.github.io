@@ -1,11 +1,14 @@
 {% assign pub = include.pub %}
 
-{{ pub.authors_short | default: pub.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }} 
-{% if pub.in_press %}in press.
-{% elsif pub.submitted %}in prep.
-{% else %}{{pub.year}}.
+{% if page.url == pub.url %}
+{{ pub.authors }},
+{{ pub.year }}.
+{{ pub.title }}.
+{% else %}
+{{ pub.authors_short | default: pub.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }},
+{{ pub.year }}.
+<a href="{{ pub.url }}">{{ pub.title }}</a>. 
 {% endif %}
-<a href="{{ pub.url }}">{{pub.title}}</a>. 
 {% if pub.language %}
     [<span lang="{{ pub.language_code }}">{{pub.title_original}}</span>]
     (in {{ pub.language }}).
@@ -15,7 +18,8 @@
 {% elsif pub.submitted %}
     Manuscript submitted for publication.
 {% else %}
-    <cite>{{ pub.journal }}</cite> {{ pub.volume }}{% if pub.issue %} ({{ pub.issue }}){% endif %}{% if pub.pages %}: {{ pub.pages }}{% endif %}.
+<cite>{{ pub.journal }}</cite>{% if pub.forthcoming %}, forthcoming.{% else %} {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}: {{ pub.pages }}{% endif %}.{% endif %}
 {% endif %}
 {% if pub.publisher %}{{ pub.publisher }}.{% endif %}
+{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">doi:{{ pub.doi }}</a>{% endif %}
 

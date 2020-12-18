@@ -8,7 +8,7 @@ layout: archive
 
 {% for year in papers_by_year %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
-<ul>
+<ul class="citations">
     {% assign papers = year.items | sort: 'month' | reverse %}
     {% for paper in papers %}
     <li>{% include citation.html pub=paper %}</li>
