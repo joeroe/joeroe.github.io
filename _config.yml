@@ -2,7 +2,7 @@
 title: Joe Roe
 name: Joe Roe
 description: >- 
-  Joe Roe is a computational archaeologist and researcher at the University of Copenhagen.
+  Joe Roe is a computational archaeologist specialising in Southwest Asian prehistory.
 site.locale: "en-GB"
 
 # URLs and permalinks
@@ -14,7 +14,7 @@ repository: "joeroe/joeroe.github.io"
 author:
   name: "Joe Roe"
   avatar: "/images/avatar.png"
-  bio: "Computational archaeologist, prehistorian. Researcher at the University of Copenhagen."
+  bio: "Computational archaeologist specialising in Southwest Asian prehistory."
   location: "Copenhagen, Denmark"
   links:
     - label: "joe@joeroe.io"
