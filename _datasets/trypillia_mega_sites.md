@@ -4,6 +4,7 @@ authors_short: "Chapman et al."
 year: 2019
 title: "Trypillia mega-sites of the Ukraine"
 repository: "Archaeology Data Service"
+website: "https://archaeologydataservice.ac.uk/archives/view/trypillia_ahrc_2018/"
 doi: "10.5284/1047599"
 ---
 
