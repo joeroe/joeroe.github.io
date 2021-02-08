@@ -105,6 +105,13 @@ breadcrumbs: false
 # paginate: 3
 # paginate_path: /page:num/
 
+# Feed
+feed:
+  tags: 
+    only:
+      - R
+    path: /feed/
+
 # Build settings
 markdown: kramdown
 exclude:
@@ -114,4 +121,3 @@ minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
