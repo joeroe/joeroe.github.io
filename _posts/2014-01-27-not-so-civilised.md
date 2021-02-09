@@ -1,6 +1,7 @@
 ---
 date: 2014-01-27 20:07:20+00:00
 title: Not so civilised
+tag: Essays
 ---
 
 The way the word 'civilisation' is bandied about in popular writing about ancient history has always bugged me. Most archaeologists must be well aware of how problematic a concept it is, but when it comes to writing for a non-specialist audience, phrases like "the earliest civilisations" are suddenly back in fashion. I suppose the reasoning is that 'civilisation' is a more widely understood term than 'complex society' or 'urban state', but is it? Yes, most people will have heard the word before, and the same can't be said about the current jargon. But it's as slippery as Service's greasy ladder and I doubt many's understanding of it will particularly resemble the way it's used in archaeology. So naturally when people encounter 'civilisation' used in the unfamiliar context of describing a historical development, they assume that the term must have a specialist definition that's being applied. Since it doesn't and isn't, trying to swap in a familiar term ends up causing more confusion than it solves. Better to stick with the jargon, and realise that if you're going to use unfamiliar concepts there's really no way around explaining them.

@@ -4,11 +4,7 @@ date: 2015-08-18 20:03:55+00:00
 slug: rstudio-server-on-a-google-compute-engine-instance
 title: RStudio Server on a Google Compute Engine instance
 wordpress_id: 108
-tags:
-- chromeos
-- cloud
-- compute engine
-- R
+tags: R
 ---
 
 ![RStudio Server running on a Compute Engine instance](/blog/2015/08/rstudio-server-on-a-google-compute-engine-instance/rstudioserver.png)

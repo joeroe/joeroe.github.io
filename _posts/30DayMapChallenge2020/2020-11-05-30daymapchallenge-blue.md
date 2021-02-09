@@ -1,5 +1,6 @@
 ---
 title: "#30DayMapChallenge Day 5: Late Quaternary Precipitation in Southwest Asia"
+tags: 30DayMapChallenge R
 ---
 
 The theme for day 5 of the

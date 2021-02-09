@@ -1,5 +1,6 @@
 ---
 title: "Computational archaeology, digital archaeology, and associated ologies"
+tag: Essays
 ---
 
 Archaeologists like to define themselves by their material.

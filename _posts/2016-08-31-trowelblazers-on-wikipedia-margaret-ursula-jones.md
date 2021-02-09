@@ -1,6 +1,7 @@
 ---
 date: 2016-08-31T06:31:48+01:00
 title: "Trowelblazers on Wikipedia: Margaret Ursula Jones"
+tag: Wikipedia
 ---
 
 Wikipedia is the world's most widely read reference work but it has a well known [systematic bias](https://en.wikipedia.org/wiki/Criticism_of_Wikipedia#Systemic_bias_in_coverage) towards the interests of affluent, Western, young geeky men: more articles on pokemon than poets, and [so on](http://www.somethingawful.com/news/wikigroaning/). A couple of months ago I thought I'd try and do a little bit to reverse it by improving the coverage of women archaeologists ([Trowelblazers](http://trowelblazers.com/) – cribbing the name from the fantastic blog that I also cribbed most of my source material from!)

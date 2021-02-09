@@ -1,6 +1,7 @@
 ---
 title: "#30DayMapChallenge 2020"
 updated: 2020-11-05
+tag: 30DayMapChallenge
 ---
 
 The [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) is an event challenging cartographers to make a map on a given theme on each day in November 2020.

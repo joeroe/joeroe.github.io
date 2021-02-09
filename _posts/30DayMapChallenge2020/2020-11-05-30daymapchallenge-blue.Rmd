@@ -1,5 +1,6 @@
 ---
 title: "#30DayMapChallenge Day 5: Late Quaternary Precipitation in Southwest Asia"
+tags: 30DayMapChallenge R
 output:
   md_document:
     variant: markdown

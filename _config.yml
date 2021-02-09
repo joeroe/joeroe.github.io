@@ -36,7 +36,7 @@ author:
       icon: "fab fa-fw fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/User:Joe_Roe"
  
-# Twitter cards
+# Social media
 twitter:
   username: "joeroe90"
 
@@ -105,6 +105,11 @@ breadcrumbs: false
 # paginate: 3
 # paginate_path: /page:num/
 
+# Taxonomy
+tag_archive:
+  type: liquid
+  path: /tags/
+
 # Feed
 feed:
   tags: 
@@ -114,6 +119,8 @@ feed:
 
 # Build settings
 markdown: kramdown
+include:
+  - _pages
 exclude:
   - "*.Rmd"
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"

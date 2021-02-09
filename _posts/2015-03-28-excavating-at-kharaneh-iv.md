@@ -2,6 +2,7 @@
 date: 2015-03-28 11:30:40+00:00
 title: Excavating at Kharaneh IV
 wordpress_id: 103
+tag: Fieldwork
 ---
 
 I wrote a brief guest post for the [Kharaneh IV blog](https://kharaneh.wordpress.com/blog/), an Epipalaeolithic site in Jordan where I've been working the last few weeks:
