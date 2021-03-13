@@ -25,3 +25,4 @@ In this article the results of a survey of the Razavar Valley (north of Kermansh
 
 * [Abstract](https://nbsh.basu.ac.ir/article_3372.html?lang=en) (English)
 * [Full text](https://nbsh.basu.ac.ir/article_3372.html?lang=fa) (Persian)
+* [Full text](/pdf/Khosravi_et_al_2020.pdf) (PDF, 1.31 MB, Persian)
