@@ -3,8 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "On uncertain ground: modelling human palaeoecology in the Azraq basin, eastern Jordan, 24,000–8,000 BP"
 conference: "the 12th International Congress on the Archaeology of the Ancient Near East, Bologna"
-year: 2020
-published: false
+year: 2021
 ---
 
 ## Abstract
