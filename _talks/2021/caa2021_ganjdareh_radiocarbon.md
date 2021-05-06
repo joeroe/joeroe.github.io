@@ -4,6 +4,7 @@ authors_short: Roe, J.
 title: "A revised radiocarbon chronology of Ganj Dareh"
 conference: "the 53rd Annual Meeting of the Canadian Archaeological Association, 'Ganj Dareh Then and Now: Integrating Past and Current Research'"
 year: 2021
+month: 5
 ---
 
 ## Abstract

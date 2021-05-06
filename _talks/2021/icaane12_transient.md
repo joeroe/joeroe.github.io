@@ -4,6 +4,7 @@ authors_short: "Pedersen, P. N., Roe, J., & Richter, T."
 title: "Free foragers? A case for transient social inequality at Epipalaeolithic Shubayqa, eastern Jordan"
 conference: "the 12th International Congress on the Archaeology of the Ancient Near East, Bologna"
 year: 2021
+month: 4
 ---
 
 ## Abstract

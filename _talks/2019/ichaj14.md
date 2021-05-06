@@ -1,9 +1,10 @@
 ---
 authors: Tobias Richter, Amaia Arranz Otaegui, Matthew Jones, Joe Roe, and Lisa Yeomans
 authors_short: Richter, T., Arranz Otaegui, A., Jones, M., Roe, J., & Yeomans, L.
-year: 2019
 title: "Environmental Crisis and Societal Collapse: Was the Younger Dryas a significant factor in triggering the transition from the Palaeolithic to the Neolithic in the Levant?"
 conference: "'Culture in Crisis: Flows of Peoples, Artifacts and Ideas', the 14th International Conference on the History and Archaeology of Jordan (ICHAJ 14), Florence"
+year: 2019
+month: 1
 ---
 
 ## Abstract
