@@ -21,3 +21,7 @@ The Bayesian model also tightly constrains the site's internal chronology, openi
 * Hole, Frank. 1987. "Chronologies in the Iranian Neolithic." In *Chronologies Du Proche Orient: Relative Chronologies and Absolute Chronology, 16000–4000 B.C.*, edited by Olivier Aurenche, Jacques Evin, and Francis Hours, pp. 353–79. BAR International Series S379. Archaeopress: Oxford.
 * Meiklejohn, Christopher, Deborah C Merrett, David Reich, and Ron Pinhasi. 2017. "Direct Dating of Human Skeletal Material from Ganj Dareh, Early Neolithic of the Iranian Zagros." *Journal of Archaeological Science: Reports* 12 (April): 165–72. https://doi.org/10.1016/j.jasrep.2017.01.036.
 * Zeder, M A, and B Hesse. 2000. "The Initial Domestication of Goats (*Capra hircus*) in the Zagros Mountains 10,000 Years Ago." *Science* 287 (5461): 2254–57.
+
+## Links
+
+* [Video recording](https://www.youtube.com/watch?v=xKPEFmsnjIw&list=PLe75n6eUk0JHTaJ-c4k_u5LbkXRg8SuY7&index=8) (YouTube)
