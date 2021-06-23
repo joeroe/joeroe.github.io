@@ -3,7 +3,7 @@ authors: "Matthew Jones, Tobias Richter, Gary Rollefson, Yorke Rowan, Joe Roe, P
 authors_short: "Jones, M., Richter, T., Rollefson, G., Rowan, Y., Roe, J., Toms, P., Wasse, A., Ikram, H., Williams, M., AlShdaifat, A., Pedersen, P. N., & Esaid, W."
 year: 2021
 month: 7
-journal: *Quaternary International*
+journal: Quaternary International
 forthcoming: true
 title: "The palaeoenvironmental potential of the eastern Jordanian desert basins (*Qe'an*)"
 ---
