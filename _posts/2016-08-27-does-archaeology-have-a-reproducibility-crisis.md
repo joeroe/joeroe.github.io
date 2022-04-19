@@ -3,6 +3,8 @@ date: 2016-08-27T18:11:46+01:00
 slug: does-archaeology-have-a-reproducibility-crisis
 title: Does archaeology have a reproducibility crisis?
 tag: Essays
+redirect_from:
+  - blog/2016/08/27/does-archaeology-have-a-reproducibility-crisis/
 ---
 
 The reproducibility crisis! It's shaking the very foundations of the ivory tower. Reportedly the psychology wing is already in rubble. Medical researchers are having to glue their microscopes to their benches. But down in our dusty corner of the basement, the archaeologists don't appear to have even noticed. Why not?

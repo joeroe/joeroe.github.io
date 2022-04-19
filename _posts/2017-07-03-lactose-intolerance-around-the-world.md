@@ -2,6 +2,8 @@
 date: "2017-07-03T18:03:07+01:00"
 title: "Lactose intolerance around the world"
 tags: Essays R
+redirect_from:
+  - /blog/lactose-intolerance-around-the-world/
 ---
 
 Most of us in the western world take drinking milk for granted, but the ability to digest lactose into adulthood is actually relatively uncommon from a global perspective. It comes from a genetic mutation called lactase persistence, which evolved independently in a few parts of the world in the last 5,000 years, probably as an adaptation to widespread dairying following the Neolithic (or Secondary Products?) Revolution. This makes it one of the clearest examples of gene–culture coevolution we know of, and therefore of great interest to evolutionary anthropologists ([Ségurel and Bon 2017](https://doi.org/10.1146/annurev-genom-091416-035340)).
