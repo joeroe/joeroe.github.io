@@ -6,7 +6,7 @@ month: 5
 journal: ""
 submitted: true
 title: "Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps"
-doi:
+doi: "10.31235/osf.io/dbcag"
 ---
 
 ## Abstract
