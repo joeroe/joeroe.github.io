@@ -25,6 +25,3 @@ And crucially, while many contemporary approaches to the Southwest Asian Neolith
 
 * Perrault, Charles. 2019. *The Quality of the Archaeological Record*. University of Chicago Press.
 
-## Links
-
-* [Pre-recorded talk with slides](/files/eaa2022_macroarch_neorev.mkv) (MKV, 39.5 MB)
