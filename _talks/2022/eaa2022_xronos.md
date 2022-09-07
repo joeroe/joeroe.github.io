@@ -2,7 +2,7 @@
 authors: Joe Roe and Martin Hinz
 authors_short: Roe, J. & Hinz, M.
 title: "XRONOS: challenges in building a global open repository for chronometric data"
-conference: "European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September 2022"
+conference: "the European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September 2022"
 year: 2022
 month: 9
 ---
@@ -12,7 +12,7 @@ month: 9
 ## Abstract
 
 Radiocarbon data has been at the forefront of archaeologists' recent embrace of open data and open science.
-Comprehensive compilations of radiocarbon dates have become available for many parts of the world in the last decade and, as natural next step, there are now several initiatives to collate this data globally, including the retrieval tool c14bazAAR [@Schmid2019], the IntChron exchange format [@BronkRamsey2019], and the synthetic database p3kc14 [@Bird2022].
+Comprehensive compilations of radiocarbon dates have become available for many parts of the world in the last decade and, as natural next step, there are now several initiatives to collate this data globally, including the retrieval tool c14bazAAR (Schmid et al. 2019), the IntChron exchange format (Bronk Ramseyet al. 2019), and the synthetic database p3kc14 (Bird et al. 2022).
 Here, building on a complementing these initiatives, we present [XRONOS](https://xronos.ch): a new web-based platform for chronometric data from archaeological contexts worldwide, combining an open data repository with tools for importing, curating and analysing chronometric information from diverse sources.
 The development of XRONOS has raised a number of challenges. 
 Conventions for sharing radiocarbon data are relatively well-established, but integrating other classes of chronological information—dendrochronology, typochronology, Bayesian priors, etc.—demands a more sophisticated technical infrastructure.
