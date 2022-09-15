@@ -2,10 +2,12 @@
 authors: Martin Hinz and Joe Roe
 authors_short: Hinz, M. & Roe, J.
 title: "Zoom and Enhance: high-resolution reconstruction of macro-scale processes with Bayesian hierarchical models"
-conference: "European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September 2022"
+conference: "European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September"
 year: 2022
 month: 9
 ---
+
+{% include video id="1yd47fL6TEReht-0cY5WBo-KzMaohwvko" provider="google-drive" %}
 
 A presentation of the method and results described in [Hinz et al. 2022](/papers/2022/hinz_et_al_bayesian_prehistoric_demography) as they relate to macroarchaeology.
 

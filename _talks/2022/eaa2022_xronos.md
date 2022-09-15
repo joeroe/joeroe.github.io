@@ -2,7 +2,7 @@
 authors: Joe Roe and Martin Hinz
 authors_short: Roe, J. & Hinz, M.
 title: "XRONOS: challenges in building a global open repository for chronometric data"
-conference: "the European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September 2022"
+conference: "the European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September"
 year: 2022
 month: 9
 ---
