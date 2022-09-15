@@ -7,6 +7,8 @@ year: 2021
 month: 5
 ---
 
+{% include video id="182GyjLfYCpcYaq3KevYeGV0nYAvMM0wj" provider="google-drive" %}
+
 ## Abstract
 
 The absolute chronology of Ganj Dareh is known from some 41 previously published radiocarbon dates,
@@ -22,6 +24,3 @@ The Bayesian model also tightly constrains the site's internal chronology, openi
 * Meiklejohn, Christopher, Deborah C Merrett, David Reich, and Ron Pinhasi. 2017. "Direct Dating of Human Skeletal Material from Ganj Dareh, Early Neolithic of the Iranian Zagros." *Journal of Archaeological Science: Reports* 12 (April): 165–72. https://doi.org/10.1016/j.jasrep.2017.01.036.
 * Zeder, M A, and B Hesse. 2000. "The Initial Domestication of Goats (*Capra hircus*) in the Zagros Mountains 10,000 Years Ago." *Science* 287 (5461): 2254–57.
 
-## Links
-
-* [Video recording](https://www.youtube.com/watch?v=xKPEFmsnjIw&list=PLe75n6eUk0JHTaJ-c4k_u5LbkXRg8SuY7&index=8) (YouTube)
