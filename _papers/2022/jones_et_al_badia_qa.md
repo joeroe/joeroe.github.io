@@ -1,13 +1,18 @@
 ---
 authors: "Matthew Jones, Tobias Richter, Gary Rollefson, Yorke Rowan, Joe Roe, Phillip Toms, Alexander Wasse, Haroon Ikram, Matthew Williams, Ahmad AlShdaifat, Patrick Nørskov Pedersen, and Wesam Esaid"
 authors_short: "Jones, M., Richter, T., Rollefson, G., Rowan, Y., Roe, J., Toms, P., Wasse, A., Ikram, H., Williams, M., AlShdaifat, A., Pedersen, P. N., & Esaid, W."
-year: 2021
-month: 6
+year: 2022
+month: 9
 journal: Quaternary International
-forthcoming: true
-title: "The palaeoenvironmental potential of the eastern Jordanian desert basins (*Qe'an*)"
+volume: 635
+pages: 72-82
+title: "The palaeoenvironmental potential of the eastern Jordanian desert basins (Qe'an)"
 doi: "10.1016/j.quaint.2021.06.023"
+redirect_from: 
+  - "/papers/2021/jones_et_al_badia_qa.html"
 ---
+
+Invited contribution to a special issue of *Quaternary International*, '[Geoarchaeology from Mediterranean Areas to Arid Margins](https://www.sciencedirect.com/journal/quaternary-international/vol/635/suppl/C)'.
 
 ## Abstract
 
