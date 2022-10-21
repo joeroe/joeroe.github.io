@@ -3,7 +3,7 @@ authors: "Amaia Arranz-Otaegui, Patrick Nørskov Pedersen, Ann Frijda Schmidt, A
 authors_short: "Arranz-Otaegui, A., Pedersen, P. N., Schmidt, A. F., Jörgensen-Lindahl, A., Roe, J., Villemoes, J., & Pantos, G. A."
 year: 2022
 month: 10
-journal: Journal of Archaeological Science: Reports
+journal: "Journal of Archaeological Science: Reports"
 title: "Identifying the *chaîne opératoire* of club-rush (*Bolboschoenus glaucus* [Lam.] S.G.Sm) tuber exploitation during the Early Natufian in the Black Desert (northeastern Jordan)"
 in_press: true
 ---
