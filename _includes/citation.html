@@ -3,7 +3,7 @@
 {% if page.url == pub.url %}
 {{ pub.authors }},
 {{ pub.year }}.
-{{ pub.title | markdownify }}.
+{{ pub.title }}.
 {% else %}
 {{ pub.authors_short | default: pub.authors | replace: "Roe, J.", "<b>Roe, J.</b>" }},
 {{ pub.year }}.
