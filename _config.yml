@@ -32,7 +32,6 @@ author:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://archaeo.social/@joeroe"
-      rel: "me"
     - label: "Wikipedia"
       icon: "fab fa-fw fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/User:Joe_Roe"
@@ -124,7 +123,7 @@ include:
   - _pages
 exclude:
   - "*.Rmd"
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
