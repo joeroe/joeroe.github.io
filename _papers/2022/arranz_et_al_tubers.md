@@ -1,11 +1,12 @@
 ---
-authors: "Amaia Arranz-Otaegui, Patrick Nørskov Pedersen, Ann Frijda Schmidt, Anne Jörgensen-Lindahl, Joe Roe, Johan Villemoes, and George Alexis Pantos"
-authors_short: "Arranz-Otaegui, A., Pedersen, P. N., Schmidt, A. F., Jörgensen-Lindahl, A., Roe, J., Villemoes, J., & Pantos, G. A."
+authors: "Amaia Arranz-Otaegui, Patrick Nørskov Pedersen, Ann Frijda Schmidt, Anne Jörgensen-Lindahl, Joe Roe, Johan Villemoes, George Alexis Pantos, and Kathryn Killackey"
+authors_short: "Arranz-Otaegui, A., Pedersen, P. N., Schmidt, A. F., Jörgensen-Lindahl, A., Roe, J., Villemoes, J., Pantos, G. A., & Killackey, K."
 year: 2022
-month: 10
+month: 11
 journal: "Journal of Archaeological Science: Reports"
 title: "Identifying the *chaîne opératoire* of club-rush (*Bolboschoenus glaucus* [Lam.] S.G.Sm) tuber exploitation during the Early Natufian in the Black Desert (northeastern Jordan)"
-forthcoming: true
+volume: 47
+doi: 10.1016/j.jasrep.2022.103677
 ---
 
 ## Abstract
