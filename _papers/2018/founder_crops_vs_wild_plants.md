@@ -1,6 +1,6 @@
 ---
-authors: "Amaia Arranz Otaegui, Lara González Carretero, Joe Roe, and Tobias Richter"
-authors_short: "Arranz Otaegui, A., González Carretero, L., Roe, J., & Richter, T."
+authors: "Amaia Arranz-Otaegui, Lara González Carretero, Joe Roe, and Tobias Richter"
+authors_short: "Arranz-Otaegui, A., González Carretero, L., Roe, J., & Richter, T."
 year: 2018
 month: 4
 title: "\"Founder crops\" v. wild plants: Assessing the plant-based diet of the last hunter-gatherers in southwest Asia"
@@ -18,3 +18,4 @@ The Natufian culture (c. 14.6–11.5 ka cal. BP) represents the last hunter-gath
 
 * [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0277379117306145) (subscription required)
 * [Self-archive postprint](/pdf/Arranz_Otaegui_et_al_2018.pdf) (PDF, 5.6 MB)
+
