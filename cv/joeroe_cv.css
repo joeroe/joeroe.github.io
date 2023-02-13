@@ -144,10 +144,10 @@ sup {
 }
 
 /* Citation lists */
-.citations {
+.citations ul {
   list-style-type: none !important;
   text-indent: -0.5cm !important;
-  margin-left: var(--date-block-width) !important;
+  padding-left: 0.5cm;
 }
 
 .citations li::before {

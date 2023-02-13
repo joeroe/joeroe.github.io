@@ -108,7 +108,7 @@ CV %<>% print_section('academic_employment')
 
 
 
-Publications {data-icon=book .list-only}
+Publications {data-icon=book .citations .list-only}
 --------------------------------------------------------------------------------
 
 ::: aside
@@ -123,7 +123,7 @@ print_papers_from_md("papers", "../")
 
 
 
-Conference presentations {data-icon=chalkboard .list-only}
+Conference presentations {data-icon=chalkboard .citations .list-only}
 --------------------------------------------------------------------------------
 
 ::: aside
