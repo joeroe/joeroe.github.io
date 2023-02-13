@@ -47,7 +47,7 @@ Aside
 
 ```{r}
 if(params$pdf_mode){
-  cat("View this CV online with links at _https://joeroe.io/cv_")
+  cat("View this CV online with links at https://joeroe.io/cv")
 } else {
   cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://joeroe.io/cv/joeroe_cv.pdf)")
 }
