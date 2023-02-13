@@ -3,7 +3,7 @@ authors: "Martin Hinz, Joe Roe, Julian Laabs, Caroline Heitz, and Jan Kolář"
 authors_short: "Hinz, M., Roe, J., Laabs, J., Heitz, C., & Kolář, J."
 year: 2022
 month: 5
-journal: ""
+forthcoming: true
 submitted: true
 title: "Bayesian inference of prehistoric population dynamics from multiple proxies: a case study from the North of the Swiss Alps"
 doi: "10.31235/osf.io/dbcag"

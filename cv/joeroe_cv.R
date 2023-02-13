@@ -241,6 +241,53 @@ print_contact_info <- function(cv){
   invisible(cv)
 }
 
+print_papers_from_md <- function(collections, jekyll_root = "./") {
+  fs::dir_ls(fs::path(jekyll_root, paste0("_", collections)),
+             glob = "*.md",
+             recurse = 1) %>%
+    purrr::map_dfr(rmarkdown::yaml_front_matter) %>%
+    dplyr::filter(!forthcoming | is.na(forthcoming)) %>%
+    dplyr::mutate(
+      authors_short = stringr::str_replace(authors_short,
+                                           stringr::coll("Roe, J."),
+                                           "**Roe, J.**")
+    ) %>%
+    dplyr::arrange(desc(year), desc(month)) %>%
+    dplyr::group_by(year) %>%
+    dplyr::mutate(
+      vol = dplyr::if_else(!is.na(issue),
+                           paste0(volume, " (", issue, ")"),
+                           as.character(volume)),
+      identifier = dplyr::if_else(!is.na(pages),
+                                  paste0(vol, ": ", pages),
+                                  vol)
+    ) %>%
+    dplyr::mutate(
+      citation = dplyr::if_else(
+        !is.na(journal),
+        glue::glue("* {authors_short}, {title}. *{journal}* {identifier}. [doi:{doi}](https://doi.org/{doi})"),
+        glue::glue("* {authors_short}, {title}. In {editors_short}, *{book}*. {publisher}, pp. {pages}. [doi:{doi}](https://doi.org/{doi})")
+      )
+    ) %>%
+    dplyr::group_map(~tibble::tibble(year = .y$year, text = list(c(
+      "### N/A",
+      "",
+      "N/A",
+      "",
+      "N/A",
+      "",
+      .y$year,
+      "",
+      .x$citation,
+      ""
+    )))) %>%
+    dplyr::bind_rows() %>%
+    dplyr::arrange(desc(year)) %>%
+    dplyr::select(text) %>%
+    unlist() %>%
+    writeLines()
+}
+
 print_talks_from_md <- function(collections, jekyll_root = "./") {
   fs::dir_ls(fs::path(jekyll_root, paste0("_", collections)),
              glob = "*.md",
