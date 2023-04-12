@@ -16,4 +16,6 @@ Zohary and Hopf coined the term ‘founder crops’ to refer to a specific group
 
 * [ScienceDirect](https://link.springer.com/article/10.1007/s00334-023-00917-1)
 * [Self-archive postprint](/pdf/Arranz-Otaegui_and_Roe_2023.pdf)
+* [Research compendium of data and code](https://doi.org/10.5281/zenodo.5911218) (Zenodo)
+* [Source repository](https://github.com/joeroe/SWAsiaNeolithicFounderCrops) (GitHub)
 
