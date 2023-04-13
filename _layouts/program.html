@@ -1,5 +1,22 @@
 ---
 layout: single
 ---
-{%if page.logo %}<img src="{{ page.logo }}" alt="{{ page.short_name }} logo" style="float: right; width: 139px; height: 139px;" />{% endif %}
+
+{% if page.logo %}
+<img src="{{ page.logo }}" alt="{{ page.short_name }} logo" style="float: right; width: 139px; height: 139px;" />
+{% endif %}
+
+<dl>
+	<dt>Latest version</dt>
+	<dd>
+		{% if page.version == '0.0.0' %}
+		unreleased
+		{% else %}
+		{{ page.version }} ({{ page.year }})
+		{% endif %}
+	</dd>
+	<dt>Citation</dt>
+	<dd>{{ page.authors_short }}, {{ page.year }}. {{ page.title }} (v. {{ page.version }}). {{ page.website }}</dd>
+</dl>
+
 {{ content }}

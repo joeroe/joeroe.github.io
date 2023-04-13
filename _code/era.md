@@ -1,7 +1,8 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
-year: 2020
+year: 2022 # for version below
+version: '0.4.1'
 short_name: era
 title: "era: R package for years with an era"
 website: https://era.joeroe.io
@@ -14,8 +15,14 @@ time scales commonly used in archaeology, astronomy, geology, and other palaeosc
 and support for arbitrary user-defined eras. 
 Functions for converting between eras and for type-stable arithmetic with years are also provided.
 
-## Further information
+## News
 
-* [Package website](https://era.joeroe.io)
-* [Source code](https://github.com/joeroe/era) (GitHub)
+* 2021-02-07: [era 0.3.1: year-based time scales in R](2021/02/07/era-0.3.1.html)
+* 2020-11-12: [Beta release of era](2020/11/12/era-beta.html) 
+
+## Links
+
+* [Documentation](https://era.joeroe.io)
+* [CRAN](https://cran.r-project.org/web/packages/era/index.html)
+* [Source repository](https://github.com/joeroe/era) (GitHub)
 
