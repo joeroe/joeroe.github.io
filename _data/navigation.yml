@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Software"
     url: /code/
-  - title: "Data"
+  - title: "Datasets"
     url: /datasets/
   - title: "Papers"
     url: /papers/
