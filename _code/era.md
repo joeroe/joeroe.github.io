@@ -6,6 +6,7 @@ version: '0.4.1'
 short_name: era
 title: "era: R package for years with an era"
 website: https://era.joeroe.io
+doi: 10.5281/zenodo.7330947
 logo:  "https://era.joeroe.io/reference/figures/logo.svg"
 ---
 

@@ -15,8 +15,20 @@ layout: single
 		{{ page.version }} ({{ page.year }})
 		{% endif %}
 	</dd>
+	{% if page.doi %}
+	<dt><acronym title="Digital Object Identifier">DOI</acronym></dt>
+	<dd><a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></dd>
+	{% endif %}
 	<dt>Citation</dt>
-	<dd>{{ page.authors_short }}, {{ page.year }}. {{ page.title }} (v. {{ page.version }}). {{ page.website }}</dd>
+	<dd>
+		{{ page.authors_short }}, {{ page.year }}. 
+		<cite>{{ page.title }}</cite> (v. {{ page.version }}).
+		{% if page.doi %}
+		Zenodo. doi:{{ page.doi }}
+		{% else %}
+		{{ page.website }}
+		{% endif %}
+	</dd>
 </dl>
 
 {{ content }}
