@@ -3,6 +3,7 @@ authors: Zack Batist and Joe Roe
 authors_short: Batist, Z. & Roe, J.
 title: "Open archaeology: a survey of collaborative software engineering in archaeological research"
 conference: "Computer Applications & Quantitative Methods in Archaeology (CAA), Limassol (Virtual)"
+date: 2021-06-16
 year: 2021
 month: 6
 ---

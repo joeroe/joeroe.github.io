@@ -1,6 +1,7 @@
 ---
 authors: "Jones, M. D., Abu-Jaber, N., AlShdaifat, A., Baird, D., Cook, B. I., Cuthbert, M. O., Dean, J. R., Djamali, M., Eastwood, W., Fleitmann, D., Haywood, A., Kwiecien, O., Larsen, J., Maher, L. A., Metcalfe, S. E., Parker, A., Petrie, C. A., Primmer, N., Richter, T., Roberts, N., Roe, J., Tindall, J. C., Unal, E., & Weeks, L."
 authors_short: "Jones et al."
+date: 2019-02-10
 year: 2019
 month: 2
 title: "20,000 years of societal vulnerability and adaptation to climate change in southwest Asia"

@@ -100,3 +100,18 @@ ul.citations {
     list-style-type: none;
     text-indent: -$indent-var;
 }
+
+// Home page feed
+.home__item {
+	margin-bottom: 1.5rem;
+}
+
+.home__item-collection {
+	color: #999999;
+	font-size: smaller;
+}
+
+.home__item-title {
+	margin-top: 0;
+	font-weight: normal;
+}

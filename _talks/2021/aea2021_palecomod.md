@@ -3,6 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "Out with the new, in with the old: recent advances in palaeoecological modelling with open data"
 conference: "the Association for Environmental Archaeology Spring Meeting 2021: Open Science Practices in Environmental Archaeology, Oxford"
+date: 2021-04-24
 year: 2021
 month: 4.5
 ---

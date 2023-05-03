@@ -3,6 +3,7 @@ authors: Joe Roe and Louise Martin
 authors_short: Roe, J. & Martin, L.
 title: "Open season: modelling prehistoric wildlife dynamics in Epipalaeolithic and Neolithic Jordan"
 conference: "the British Association for Near Eastern Archaeology (BANEA) annual conference, London"
+date: 2015-01-08
 year: 2015
 month: 1
 ---

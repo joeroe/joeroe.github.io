@@ -1,6 +1,7 @@
 ---
 authors: "Louise Martin, with a contribution by Joe Roe"
 authors_short: "Martin, L., & Roe, J."
+date: 2020-05-01
 year: 2020
 month: 5
 title: "The Kheshiya Cattle Skull Ring: Zooarchaeological Analyses"

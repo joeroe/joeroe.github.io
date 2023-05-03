@@ -1,6 +1,7 @@
 ---
 authors: Joe Roe
 authors_short: Roe, J.
+date: 2016-08-02
 year: 2016
 month: 8
 title: "PIA at 25: A Retrospective"

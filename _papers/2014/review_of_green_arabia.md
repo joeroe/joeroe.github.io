@@ -1,6 +1,7 @@
 ---
 authors: Joe Roe
 authors_short: Roe, J.
+date: 2014-04-30
 year: 2014
 month: 4
 title: "Review of *Green Arabia*: Human Prehistory at the Crossroads of Continents"

@@ -3,6 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "*Gorram shiny!* An accessible interface for reproducible landscape archaeology with `R` and `fieldwalkr`"
 conference: "Computer Applications & Quantitative Methods in Archaeology (CAA), Kraków"
+date: 2019-04-24
 year: 2019
 month: 4
 ---

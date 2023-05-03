@@ -1,6 +1,7 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
+date: 2018-04-06
 year: 2018
 title: "The Zagros in Prehistory: geography, chronology, demography"
 preview: "/images/zagros_c14_poster.jpg"

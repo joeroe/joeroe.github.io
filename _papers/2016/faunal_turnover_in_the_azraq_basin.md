@@ -1,8 +1,9 @@
 ---
 authors: "Louise Martin, Yvonne Edwards, Joe Roe, and Andrew Garrard"
 authors_short: "Martin, L., Edwards, Y., Roe, J., & Garrard, A."
+date: 2016-09-01
 year: 2016
-month: 1
+month: 9
 title: "Faunal turnover in the Azraq Basin, eastern Jordan 28,000 to 9,000 cal BP, signalling climate change and human impact"
 journal: Quaternary Research
 volume: 86

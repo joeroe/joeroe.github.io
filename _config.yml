@@ -101,8 +101,11 @@ defaults:
 # Breadcrumbs
 breadcrumbs: false
 
+# Excerpts
+excerpt_separator: <!-- more -->
+
 # Home page pagination
-# paginate: 3
+# paginate: 5
 # paginate_path: /page:num/
 
 # Taxonomy

@@ -1,6 +1,7 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
+date: 2019-04-23
 year: 2019
 title: "The Q Continuum: open source GIS tools for paperless field survey"
 preview: "/images/caa2019_qcontinuum.jpg"

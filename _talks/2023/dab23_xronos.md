@@ -3,6 +3,7 @@ authors: Joe Roe and Martin Hinz
 authors_short: Roe, J. & Hinz, M.
 title: "XRONOS: open chronometric data from archive to infrastructure"
 conference: "Digital Archaeology Bern 2023"
+date: 2023-02-02
 year: 2023
 month: 2
 ---

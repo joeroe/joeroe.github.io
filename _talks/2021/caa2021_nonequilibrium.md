@@ -3,6 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "Nonequilibrium dynamics in models of human palaeoecology"
 conference: "Computer Applications & Quantitative Methods in Archaeology (CAA), Limassol (Virtual)"
+date: 2021-06-17
 year: 2021
 month: 6
 ---

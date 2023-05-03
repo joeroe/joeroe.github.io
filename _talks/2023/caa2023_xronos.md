@@ -3,6 +3,7 @@ authors: Martin Hinz and Joe Roe
 authors_short: Hinz, M. & Roe, J.
 title: "XRONOS: a global open repository enhancing reproducible research with chronometric data"
 conference: "Computer Applications & Quantitative Methods in Archaeology (CAA), Amsterdam"
+date: 2023-04-05
 year: 2023
 month: 4
 ---

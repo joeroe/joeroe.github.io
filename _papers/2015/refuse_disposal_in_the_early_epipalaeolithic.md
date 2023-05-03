@@ -1,6 +1,7 @@
 ---
 authors: "Adam Allentuck, Louise Martin, and Joe Roe"
 authors_short: "Allentuck, A., Martin, L., & Roe, J."
+date: 2015-12-22
 year: 2015
 month: 12
 title: "Refuse Disposal in the Early Epipalaeolithic? Preliminary Zooarchaeological Evidence from Kharaneh IV, Eastern Jordan"

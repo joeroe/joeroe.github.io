@@ -3,6 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "Computational models of chronology and regional settlement in the Epipalaeolithic–Neolithic Zagros (20000–6000 BP)"
 conference: "the 'Revisiting the Hilly Flanks: the Epipalaeolithic and Neolithic periods in the eastern Fertile Crescent' conference, Copenhagen"
+date: 2021-06-25
 year: 2021
 month: 6
 ---

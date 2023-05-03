@@ -1,6 +1,7 @@
 ---
 authors: "Matthew Jones, Tobias Richter, Gary Rollefson, Yorke Rowan, Joe Roe, Phillip Toms, Alexander Wasse, Haroon Ikram, Matthew Williams, Ahmad AlShdaifat, Patrick Nørskov Pedersen, and Wesam Esaid"
 authors_short: "Jones, M., Richter, T., Rollefson, G., Rowan, Y., Roe, J., Toms, P., Wasse, A., Ikram, H., Williams, M., AlShdaifat, A., Pedersen, P. N., & Esaid, W."
+date: 2022-09-18
 year: 2022
 month: 9
 journal: Quaternary International

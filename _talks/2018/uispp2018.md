@@ -3,6 +3,7 @@ authors: Tobias Richter, Amaia Arranz-Otaegui, Elisabetta Boaretto, Matthew Jone
 authors_short: Richter, T., Arranz-Otaegui, A., Boaretto, E., Jones, M., Roe, J., & Yeomans, L.
 title: "Reconstructing Environmental Impacts on Late Pleistocene and Early Holocene Societies in the Marginal Zone of the southern Levant: A Case Study from Shubayqa"
 conference: "the XVIII UISPP World Congress, Paris"
+date: 2018-06-04
 year: 2018
 month: 6
 ---

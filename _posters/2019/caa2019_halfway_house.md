@@ -1,6 +1,7 @@
 ---
 authors: "G. Alexis Pantos and Joe Roe"
 authors_short: "Pantos, G. A., & Roe, J."
+date: 2019-04-23
 year: 2019
 title: "A halfway house: open source tools for tidy photographic and 3D data management between the field and the archive"
 preview: "/images/caa2019_halfway_house.jpg"

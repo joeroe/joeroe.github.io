@@ -1,6 +1,7 @@
 ---
 authors: "Amaia Arranz-Otaegui, Lara González Carretero, Joe Roe, and Tobias Richter"
 authors_short: "Arranz-Otaegui, A., González Carretero, L., Roe, J., & Richter, T."
+date: 2018-03-23
 year: 2018
 month: 4
 title: "\"Founder crops\" v. wild plants: Assessing the plant-based diet of the last hunter-gatherers in southwest Asia"

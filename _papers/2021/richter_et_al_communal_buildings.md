@@ -1,6 +1,7 @@
 ---
 authors: "Tobias Richter, Hojjat Darabi, Sajjad Alibaigi, Amaia Arranz-Otaegui, Pernille Bangsgaard, Shokouh Khosravi, Lisa Maher, Peder Mortensen, Patrick Pedersen, Joe Roe, and Lisa Yeomans"
 authors_short: "Richter, T., Darabi, H., Alibaigi, S., Arranz-Otaegui, A., Bangsgaard, P., Khosravi, S., Maher, L., Mortensen, P., Pedersen, P., Roe, J., & Yeomans, L."
+date: 2021-02-10
 year: 2021
 month: 2
 journal: Oxford Journal of Archaeology

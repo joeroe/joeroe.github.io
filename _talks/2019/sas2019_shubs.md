@@ -3,6 +3,7 @@ authors: Joe Roe and Tobias Richter
 authors_short: "Roe, J., & Richter, T."
 title: "Mutable mobilities: 15,000 years of nomadic settlement in the Qa' Shubayqa, eastern Jordan"
 conference: "the 53rd Seminar for Arabian Studies, Leiden"
+date: 2022-09-02
 year: 2019
 month: 7
 ---

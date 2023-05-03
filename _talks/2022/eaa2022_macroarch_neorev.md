@@ -3,6 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "Are we what we eat? The Southwest Asian 'Neolithic Revolution' as macroarchaeological theory"
 conference: "the European Association of Archaeologists (EAA) Annual Meeting, Budapest, 31 August – 3 September"
+date: 2022-09-02
 year: 2022
 month: 9
 ---

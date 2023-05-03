@@ -3,6 +3,7 @@ language: Persian
 language_code: fa
 authors: "Shokouh Khosravi, Patrick Nørskov Pedersen, Sajjad Alibaigi, Joe Roe, Mohsen Heidary Dastenaei, Behzad Miladi, Hojjat Darabi, Tobias Richter, and Peder Mortensen"
 authors_short: "Khosravi, S., Pedersen, P. N., Alibaigi, S., Roe, J., Heidary Dastenaei, M., Miladi, B., Darabi, H., Richter, T., & Mortensen, P."
+date: 2020-12-01
 year: 2020
 month: 12
 journal: "Pazhoheshha-ye Bastan shenasi Iran"

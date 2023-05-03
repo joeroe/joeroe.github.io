@@ -1,6 +1,7 @@
 ---
 authors: "Marco Nebbia and Joe Roe"
 authors_short: "Nebbia, M., & Roe, J."
+date: 2020-07-16
 year: 2020
 month: 7
 in_press: false

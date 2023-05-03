@@ -1,6 +1,7 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
+date: 2016-01-14
 year: 2016
 title: "A `greener` model of palaeoenvironments in the eastern Levant"
 preview: "/images/greener_poster.jpg"

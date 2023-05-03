@@ -3,6 +3,7 @@ authors: Joe Roe
 authors_short: Roe, J.
 title: "`fieldwalkr`: an R package for spatial sampling and field survey simulation"
 conference: "the Landscape Archaeology Conference (LAC), Newcastle & Durham"
+date: 2018-09-19
 year: 2018
 month: 9
 ---

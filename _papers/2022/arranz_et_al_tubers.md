@@ -1,6 +1,7 @@
 ---
 authors: "Amaia Arranz-Otaegui, Patrick Nørskov Pedersen, Ann Frijda Schmidt, Anne Jörgensen-Lindahl, Joe Roe, Johan Villemoes, George Alexis Pantos, and Kathryn Killackey"
 authors_short: "Arranz-Otaegui, A., Pedersen, P. N., Schmidt, A. F., Jörgensen-Lindahl, A., Roe, J., Villemoes, J., Pantos, G. A., & Killackey, K."
+date: 2022-11-28
 year: 2022
 month: 11
 journal: "Journal of Archaeological Science: Reports"
