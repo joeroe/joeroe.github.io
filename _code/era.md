@@ -25,5 +25,6 @@ Functions for converting between eras and for type-stable arithmetic with years 
 
 * [Documentation](https://era.joeroe.io)
 * [CRAN](https://cran.r-project.org/web/packages/era/index.html)
+* [R-universe](https://joeroe.r-universe.dev/era)
 * [Source repository](https://github.com/joeroe/era) (GitHub)
 

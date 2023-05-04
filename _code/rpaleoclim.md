@@ -15,5 +15,6 @@ doi: 10.5281/zenodo.7886326
 
 * [Documentation](https://rpaleoclim.joeroe.io)
 * [CRAN](https://cran.r-project.org/package=rpaleoclim)
+* [R-universe](https://joeroe.r-universe.dev/rpaleoclim)
 * [Source repository](https://github.com/joeroe/rpaleoclim) (GitHub)
 
