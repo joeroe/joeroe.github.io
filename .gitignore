@@ -1,11 +1,21 @@
-_site
-.sass-cache
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# rbenv
 .ruby-version
+
+# R
 .Rproj
 .Rproj.user
 .Rhistory
 
 # GitHub Pages ignores Gemfile.lock
-# (but dependabot doesn't)
 Gemfile.lock
+
