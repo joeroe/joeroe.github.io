@@ -8,9 +8,9 @@ website: "https://open-archaeo.info"
 doi: "10.5281/zenodo.7666729"
 ---
 
-A list of open source archaeological software and resources
+[open-archaeo](https://open-archaeo.info) is a list of open source archaeological software and resources.
 
-## Data
-
+* [Paper](/papers/2023/open-archaeo.html)
 * [Source repository](https://github.com/zackbatist/open-archaeo) (GitHub)
 * [Archive](https://zenodo.org/record/7666729) (Zenodo)
+
