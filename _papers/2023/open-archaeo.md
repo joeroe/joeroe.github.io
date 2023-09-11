@@ -1,13 +1,14 @@
 ---
 authors: "Zachary Batist and Joe Roe"
 authors_short: "Batist, Z. & Roe, J."
-date: "2023-09-07"
+date: "2023-09-11"
 year: 2023
 month: 9
 title: "open-archaeo: a resource for documenting archaeological software development practices"
 journal: "Journal of Open Archaeology Data"
-doi: 
-forthcoming: true
+volume: 11
+pages: 9
+doi: "10.5334/joad.111"
 ---
 
 ## Abstract
@@ -18,4 +19,5 @@ Open-archaeo (<https://open-archaeo.info>) is a comprehensive list of open softw
 
 ## Full text
 
-* Forthcoming
+* [Ubiquity Press](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.111) (open access)
+* [Self-archive postprint](/pdf/Batist_Roe_2023.pdf) (PDF, 1.0 MB)
