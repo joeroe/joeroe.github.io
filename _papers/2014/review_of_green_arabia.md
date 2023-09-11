@@ -17,5 +17,5 @@ doi: 10.5334/pia.458
 
 ## Full text
 
-* [Ubiquity Press](https://pia-journal.co.uk/articles/10.5334/pia.458/) (open access)
+* [UCL Press](https://student-journals.ucl.ac.uk/pia/article/id/499/) (open access)
 * [Self-archive postprint](/pdf/Roe_2014.pdf) (PDF, 1.6 MB)

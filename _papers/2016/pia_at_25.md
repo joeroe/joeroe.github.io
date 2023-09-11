@@ -18,5 +18,5 @@ On behalf of the editorial team I am delighted to introduce this 25th anniversar
 
 ## Full text
 
-* [Ubiquity Press](https://www.pia-journal.co.uk/articles/10.5334/pia.517/) (open access)
+* [UCL Press](https://student-journals.ucl.ac.uk/pia/article/id/319/) (open access)
 * [Self-archive preprint](/pdf/Roe_2016.pdf) (PDF, 267 KB)
