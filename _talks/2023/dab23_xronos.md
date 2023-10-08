@@ -34,4 +34,4 @@ We believe the XRONOS framework provides more open, more reliable, and more comp
 
 ## Links
 
-* [Conference website](https://dab23.archaeological.science/abstracts/roe_hinz/)
+* [Abstract](https://dab23.archaeological.science/abstracts/roe_hinz/) (DAB23 website)
