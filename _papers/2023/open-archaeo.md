@@ -7,7 +7,7 @@ month: 9
 title: "open-archaeo: a resource for documenting archaeological software development practices"
 journal: "Journal of Open Archaeology Data"
 volume: 11
-pages: 9
+pages: "9"
 doi: "10.5334/joad.111"
 ---
 
