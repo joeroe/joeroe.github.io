@@ -8,6 +8,7 @@ journal: "Journal of Archaeological Science: Reports"
 title: "Identifying the *chaîne opératoire* of club-rush (*Bolboschoenus glaucus* [Lam.] S.G.Sm) tuber exploitation during the Early Natufian in the Black Desert (northeastern Jordan)"
 volume: 47
 doi: 10.1016/j.jasrep.2022.103677
+reviewed: true
 ---
 
 ## Abstract

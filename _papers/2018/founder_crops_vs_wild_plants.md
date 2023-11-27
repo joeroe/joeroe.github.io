@@ -9,6 +9,7 @@ journal: Quaternary Science Reviews
 volume: 186
 pages: 263–283
 doi: 10.1016/j.quascirev.2018.02.011
+reviewed: true
 ---
 
 ## Abstract

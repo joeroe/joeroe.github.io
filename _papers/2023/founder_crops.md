@@ -7,6 +7,7 @@ month: 4
 title: "Revisiting the concept of the 'Neolithic Founder Crops' in southwest Asia"
 journal: "Vegetation History and Archaeobotany"
 doi: 10.1007/s00334-023-00917-1
+reviewed: true
 ---
 
 ## Abstract

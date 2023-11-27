@@ -9,6 +9,7 @@ journal: "Journal of Open Archaeology Data"
 volume: 11
 pages: "9"
 doi: "10.5334/joad.111"
+reviewed: true
 ---
 
 ## Abstract

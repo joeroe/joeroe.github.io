@@ -9,6 +9,7 @@ volume: 635
 pages: 72-82
 title: "The palaeoenvironmental potential of the eastern Jordanian desert basins (Qe'an)"
 doi: "10.1016/j.quaint.2021.06.023"
+reviewed: true
 redirect_from: 
   - "/papers/2021/jones_et_al_badia_qa.html"
 ---

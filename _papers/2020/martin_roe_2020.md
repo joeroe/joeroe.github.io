@@ -12,6 +12,7 @@ series: "Monumenta Archaeologica 43"
 publisher: "Cotsen Institute of Archaeology Press"
 pages: "275–348"
 doi: "10.2307/j.ctvzgb8n3.20"
+reviewed: true
 ---
 
 ## Full text

@@ -9,6 +9,7 @@ journal: Papers from the Institute of Archaeology
 volume: 24
 issue: 1
 doi: 10.5334/pia.458
+reviewed: false
 ---
 
 ## Abstract

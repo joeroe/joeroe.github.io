@@ -11,6 +11,7 @@ pages: 2–22
 doi: 10.1111/ojoa.12213
 forthcoming: false
 title: "The formation of Early Neolithic Communities in the Central Zagros: an 11,500 year old communal structure at Asiab"
+reviewed: true
 ---
 
 ## Abstract

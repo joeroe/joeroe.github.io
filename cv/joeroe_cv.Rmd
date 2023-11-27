@@ -118,9 +118,22 @@ CV %<>% print_text_block('paper_aside')
 :::
 
 ```{r paper}
-print_papers_from_md("papers", "../")
+print_papers_from_md("papers", is_reviewed = TRUE, "../")
 ```
 
+
+Publications (non-peer-reviewed) {data-icon=newspaper .citations .list-only}
+--------------------------------------------------------------------------------
+
+::: aside
+```{r paper_nonpr_aside}
+CV %<>% print_text_block('paper_nonpr_aside')
+```
+:::
+
+```{r paper_nonpr}
+print_papers_from_md("papers", is_reviewed = FALSE, "../")
+```
 
 
 Conference presentations {data-icon=chalkboard .citations .list-only}

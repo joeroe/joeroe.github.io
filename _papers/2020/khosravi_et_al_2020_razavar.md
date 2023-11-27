@@ -11,6 +11,7 @@ volume: 26
 title: "Archaeological Landscape of Razavar Valley in the Neolithic Period: the survey of the 8th–6th millennium BC in the north of Kermanshah Province"
 title_original: "چشم‌انداز باستان‌شناختی درۀ رازآور در دورۀ نوسنگی: بررسی استقرارهای هزاره‌های هشتم تا ششم پ.م شمال استان کرمانشاه"
 doi: 10.22084/NBSH.2020.21133.2094
+reviewed: true
 ---
 
 ## Abstract (English)

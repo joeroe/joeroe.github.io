@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-{% assign papers_by_year = site[page.collection] | group_by: 'year' | sort: 'name' | reverse %}
+{% assign papers_by_year = site[page.collection] | where: 'reviewed', true | group_by: 'year' | sort: 'name' | reverse %}
 
 {% for year in papers_by_year %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
@@ -16,3 +16,11 @@ layout: archive
 </ul>
 {% endfor %}
 
+<h2>Non-peer-reviewed</h2>
+
+{% assign otherpapers = site[page.collection] | where: 'reviewed', false | sort: 'date' | reverse %}
+<ul class="citations">
+    {% for otherpaper in otherpapers %}
+    <li>{% include citation.html pub=otherpaper %}</li>
+    {% endfor %}
+</ul>
