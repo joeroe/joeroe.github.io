@@ -1,7 +1,7 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
-date: "2023-12-27"
+date: "2023-11-27"
 year: 2023
 month: 12
 title: "Peer Review Report For: Inglämnlagare: a tool for restructuring Swedish HER record site data for statistical analysis [version 2; peer review: 3 approved]"
@@ -14,7 +14,7 @@ reviewed: false
 
 An open peer review of:
 
-> Löwenborg D and Antomonov F. Inglämnlagare: a tool for restructuring Swedish HER record site data for statistical analysis [version 2; peer review: 3 approved]. F1000Research 2023, 11:1370 (<https://doi.org/10.12688/f1000research.126484.2>) 
+Löwenborg D and Antomonov F. Inglämnlagare: a tool for restructuring Swedish HER record site data for statistical analysis [version 2; peer review: 3 approved]. *F1000Research* 2023, 11:1370. <https://doi.org/10.12688/f1000research.126484.2>
 
 ## Review
 
