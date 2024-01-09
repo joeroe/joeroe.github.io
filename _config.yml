@@ -14,7 +14,12 @@ repository: "joeroe/joeroe.github.io"
 author:
   name: "Joe Roe"
   avatar: "/images/avatar.png"
-  bio: "Computational archaeologist specialising in Southwest Asian prehistory."
+  bio: |
+    Computational archaeologist specialising in Southwest Asian prehistory.
+
+    [&larr;](https://webring.archaeo.social/previous?host=joeroe.io)
+    *[ARCHAEORING](https://webring.archaeo.social)*
+    [&rarr;](https://webring.archaeo.social/next?host=joeroe.io)
   location: "Bern, Switzerland"
   links:
     - label: "joe@joeroe.io"
