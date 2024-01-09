@@ -6,7 +6,7 @@ This post describes how to set up continuous deployment to [fly.io](https://fly.
 The Fly documentation includes instructions on how to set up continuous deployment [with GitHub Actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/) and [with GitLab CI/CD](https://fly.io/blog/continuous-deployment-with-gitlab/), but I couldn't find anything for Woodpecker.
 Fortunately, the process is almost identical to setting it up with GitLab CI/CD, so I could figure it out by following along that tutorial and making minor changes.
 
-My use case was to deploy from a [Codeberg](https://codeberg.org) repository, but the instructions are forge-agnostic and 
+My use case was to deploy from a [Codeberg](https://codeberg.org) repository, but the instructions below should also work for any [forge supported by Woodpecker](https://woodpecker-ci.org/docs/administration/forges/overview) (currently GitHub, Gitea, Forgejo, GitLab, and Bitbucket).
 
 ## Connect your repository to Woodpecker
 
