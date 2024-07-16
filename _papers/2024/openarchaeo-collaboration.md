@@ -5,6 +5,8 @@ date: 2024-07-18
 year: 2024
 month: 7
 title: "Open archaeology, open source? Collaborative practices in an emerging community of archaeological software engineers"
+journal: Internet Archaeology
+volume: 67
 url: "https://intarch.ac.uk/journal/issue67/13/index.html"
 doi: 10.11141/ia.67.13
 reviewed: true
@@ -16,7 +18,7 @@ Surveying the first quarter-century of computer applications in archaeology, Sco
 
 In this article, we investigate modes of collaboration in this emerging community of practice using 'open-archaeo ', a curated list of archaeological software, and data on the activity of associated GitHub repositories and users. We conduct an exploratory quantitative analysis to characterise the nature and intensity of these collaborations and map the collaborative networks that emerge from them. We document uneven adoption of open source collaborative practices beyond the basic use of git as a version control system and GitHub to host source code. Most projects do make use of collaborative features and, through shared contributions, we can trace a collaborative network that includes the majority of archaeologists active on GitHub. However, a majority of repositories have 1-3 contributors, with only a few projects distinguished by an active and diverse developer base. Direct collaboration on code or other repository content - as opposed to the more passive, social media-style interaction that GitHub supports – remains very limited. In other words, there is little evidence that archaeologists ' adoption of open-source tools (git and GitHub) has been accompanied by the decentralised, participatory forms of collaboration that characterise other open-source communities. On the contrary, our results indicate that research software engineering in archaeology remains largely embedded in conventional professional norms and organisational structures of academia.
 
-## Full text links
+## Links
 
 * [Internet Archaeology](https://intarch.ac.uk/journal/issue67/13/index.html) (open access)
 * [Preprint](https://zackbatist.info/openarchaeo-collaboration/)
