@@ -6,7 +6,6 @@ conference: "Climate of the Past and Societal Responses to Environmental Changes
 date: 2024-06-08
 year: 2024
 month: 6
-draft: true
 ---
 
 ## Abstract
