@@ -21,5 +21,5 @@
 <cite>{{ pub.journal }}</cite>{% if pub.forthcoming %}, forthcoming.{% else %} {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}: {{ pub.pages }}{% endif %}.{% endif %}
 {% endif %}
 {% if pub.publisher %}{{ pub.publisher }}.{% endif %}
-{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">doi:{{ pub.doi }}</a>{% endif %}
+{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">https://doi.org/{{ pub.doi }}</a>{% endif %}
 
