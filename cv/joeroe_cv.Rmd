@@ -73,7 +73,7 @@ CV %>% print_skill_bars()
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Made with [pagedown](https://github.com/rstudio/pagedown) ([source](https://github.com/joeroe/joeroe.github.io/cv))  
+Made with [pagedown](https://github.com/rstudio/pagedown) ([source](https://github.com/joeroe/joeroe.github.io))  
 Last updated `r Sys.Date()`
 
 

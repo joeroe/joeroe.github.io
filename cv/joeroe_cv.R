@@ -246,7 +246,7 @@ print_papers_from_md <- function(collections, is_reviewed = TRUE, jekyll_root = 
              glob = "*.md",
              recurse = 1) %>%
     purrr::map_dfr(rmarkdown::yaml_front_matter) %>%
-    dplyr::filter(!forthcoming | is.na(forthcoming)) %>%
+    # dplyr::filter(!forthcoming | is.na(forthcoming)) %>%
     dplyr::filter(reviewed == is_reviewed) %>%
     dplyr::mutate(
       authors_short = stringr::str_replace(authors_short,
