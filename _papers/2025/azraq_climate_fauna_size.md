@@ -7,7 +7,7 @@ month: 2
 title: "Late Pleistocene-Holocene mammalian body size change in Jordan's Azraq Basin: A case for climate driven species distribution shifts"
 journal: Quaternary Science Reviews
 volume: 350
-pages: 109147
+pages: 109–147
 url: https://www.sciencedirect.com/science/article/pii/S0277379124006498
 doi: 10.1016/j.quascirev.2024.109147
 reviewed: true
