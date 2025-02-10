@@ -2,7 +2,7 @@
 authors: Caroline Heitz, Kristin Ismail-Meyer, Cyrielle Aellen, and Joe Roe 
 authors_short: Heitz, C., Ismail-Meyer, K., Aellen, C., & Roe, J.
 title: "Climate Change Resilience and Vulnerabilities of Waterfront Communities – Mixed Methods Research on 'Pile Dwellings' around the Alps (4000-800 BCE)"
-conference: "30th Annual Meeting of the European Association of Archaeologists (EAA), Rome, 28-31 August 2024"
+conference: "the 30th Annual Meeting of the European Association of Archaeologists (EAA), Rome, 28-31 August 2024"
 date: 2024-08-31
 year: 2024
 month: 8

@@ -2,7 +2,7 @@
 authors: Martin Hinz and Joe Roe
 authors_short: Hinz, M. & Roe, J.
 title: "ESTER: Estimation of the prehistoric population of Eurasia based on a large number of records"
-conference: "World Neolithic Congress, Şanlıurfa, 4–8th November 2024"
+conference: "the World Neolithic Congress, Şanlıurfa, 4–8th November 2024"
 date: 2024-11-08
 year: 2024
 month: 8

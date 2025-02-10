@@ -2,7 +2,7 @@
 authors: Joe Roe
 authors_short: "Roe, J."
 title: "More than just porridge: old materialism and the macroarchaeology of the Neolithic Revolution"
-conference: 13th International Congress on the Archaeology of the Ancient Near East, Copenhagen
+conference: the 13th International Congress on the Archaeology of the Ancient Near East, Copenhagen
 date: 2023-05-26
 year: 2023
 month: 5

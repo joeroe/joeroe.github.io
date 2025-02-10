@@ -2,7 +2,7 @@
 authors: Joe Roe and Martin Hinz
 authors_short: Roe, J. & Hinz, M.
 title: "Estimating the prevalance of post-agricultural population declines through the global radiocarbon record"
-conference: "World Neolithic Congress, Şanlıurfa, 4–8th November 2024"
+conference: "the World Neolithic Congress, Şanlıurfa, 4–8th November 2024"
 date: 2024-11-08
 year: 2024
 month: 8

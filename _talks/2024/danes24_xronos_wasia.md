@@ -2,7 +2,7 @@
 authors: Joe Roe and Martin Hinz
 authors_short: Roe, J. & Hinz, M.
 title: XRONOS as a Resource for Archaeological Chronology in West Asia
-conference: "Digital Ancient Near Eastern Studies (DANES) Conference, Virtual, 4–6 December 2024"
+conference: "the Digital Ancient Near Eastern Studies (DANES) Conference, Virtual, 4–6 December 2024"
 date: 2024-12-05
 year: 2024
 month: 12
