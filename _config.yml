@@ -41,10 +41,6 @@ author:
       icon: "fab fa-fw fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/User:Joe_Roe"
  
-# Social media
-twitter:
-  username: "joeroe90"
-
 # Content types
 collections:
   code:
@@ -75,7 +71,7 @@ defaults:
       type: "posts"
     values:
       layout: "single"
-      share: true
+      share: false
       related: true
   - scope:
       path: ""
