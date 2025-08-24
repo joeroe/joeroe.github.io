@@ -71,4 +71,4 @@ Was the potential for proto-serfdom and cattle-powered ecocide inherent in agric
 Or did our farming ancestors spend as much as *three thousand years* as essentially egalitarian gardeners before things took a turn for the worse?
 That's the difference dating the plough makes!
 
-<small>Adapted from a [Mastodon thread](https://archaeo.social/@joeroe/114986894481472137) posted to [archaeo.social](https://archaoeo.social) on 7 August 2025.</small>
+<small>Adapted from a [Mastodon thread](https://archaeo.social/@joeroe/114986894481472137) posted to [archaeo.social](https://archaeo.social) on 7 August 2025.</small>
