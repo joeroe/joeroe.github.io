@@ -2,7 +2,7 @@
 title: Joe Roe
 name: Joe Roe
 description: >- 
-  Joe Roe is a computational archaeologist specialising in Southwest Asian prehistory.
+  Joe Roe is a computational archaeologist specialising in the ecology and economy of the world's farmers in prehistoric Southwest Asia.
 site.locale: "en-GB"
 
 # URLs and permalinks
@@ -15,12 +15,12 @@ author:
   name: "Joe Roe"
   avatar: "/images/avatar.jpg"
   bio: |
-    Computational archaeologist specialising in Southwest Asian prehistory.
+    Computational archaeologist specialising in early agriculture in Southwest Asia.
 
     [&larr;](https://webring.archaeo.social/previous?host=joeroe.io)
     *[ARCHAEORING](https://webring.archaeo.social)*
     [&rarr;](https://webring.archaeo.social/next?host=joeroe.io)
-  location: "Denmark"
+  location: "Copenhagen, Denmark"
   links:
     - label: "joe@joeroe.io"
       icon: "fas fa-fw fa-envelope"
