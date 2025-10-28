@@ -6,7 +6,9 @@ year: 2024
 month: 9
 title: "Dietary Variability in the Varna Chalcolithic Cemeteries"
 journal: European Journal of Archaeology
-volume: 
+volume: 28
+issue: 1
+pages: 24–42
 url: "https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/dietary-variability-in-the-varna-chalcolithic-cemeteries/76DC5851A46D236C088F5BD795EB5B86"
 doi: 10.1017/eaa.2024.33
 reviewed: true
