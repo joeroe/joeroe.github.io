@@ -6,7 +6,7 @@ year: 2025
 month: 10
 title: "Biogeography of crop progenitors and wild plant resources in the terminal Pleistocene and Early Holocene of West Asia, 14.7–8.3 ka"
 journal: Open Quaternary
-doi: https://doi.org/10.32942/X2DD27 # preprint doi
+doi: 10.32942/X2DD27 # preprint doi
 reviewed: true
 forthcoming: true
 ---

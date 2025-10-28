@@ -266,8 +266,8 @@ print_papers_from_md <- function(collections, is_reviewed = TRUE, jekyll_root = 
     dplyr::mutate(
       citation = dplyr::if_else(
         !is.na(journal),
-        glue::glue("* {authors_short}, {title}. *{journal}* {identifier}. [doi:{doi}](https://doi.org/{doi})"),
-        glue::glue("* {authors_short}, {title}. In {editors_short}, *{book}*. {publisher}, pp. {pages}. [doi:{doi}](https://doi.org/{doi})")
+        glue::glue("* {authors_short}, {title}. *{journal}* {identifier}. <https://doi.org/{doi}>"),
+        glue::glue("* {authors_short}, {title}. In {editors_short}, *{book}*. {publisher}, pp. {pages}. <https://doi.org/{doi}>")
       )
     ) %>%
     dplyr::group_map(~tibble::tibble(year = .y$year, text = list(c(
