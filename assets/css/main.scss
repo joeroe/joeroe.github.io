@@ -111,6 +111,10 @@ ul.citations {
 	font-size: smaller;
 }
 
+.home__item-collectiondate:before {
+  content: "| "
+}
+
 .home__item-title {
 	margin-top: 0;
 	font-weight: normal;

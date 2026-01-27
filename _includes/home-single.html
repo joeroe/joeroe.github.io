@@ -10,17 +10,17 @@
 		<div class="home__item-collection">
 			{% case item.collection %}
 			{% when "posts" %}
-			<i class="fas fa-newspaper" title="Post"></i>
+			<i class="fas fa-newspaper" title="Post"></i>&nbsp;Post
 			{% when "papers" %}
-			<i class="fas fa-file-alt" title="Paper"></i>
+			<i class="fas fa-file-alt" title="Paper"></i>&nbsp;Paper
 			{% when "posters" %}
-			<i class="fas fa-image" title="Poster"></i>
+			<i class="fas fa-image" title="Poster"></i>&nbsp;Poster
 			{% when "talks" %}
-			<i class="fas fa-comment-alt" title="Talk"></i>
+			<i class="fas fa-comment-alt" title="Talk"></i>&nbsp;Talk
 			{% else %}
-			<i class="fas fa-question-circle" title="Other output"></i>
+			<i class="fas fa-question-circle" title="Other output"></i>&nbsp;Output
 			{% endcase %}
-			{{ item.date | date: "%Y-%m-%d" }}
+			<span class="home__item-collectiondate">{{ item.date | date: "%Y-%m-%d" }}</span>
 		</div>
 
 		<h3 class="home__item-title no_toc" itemprop="headline">
