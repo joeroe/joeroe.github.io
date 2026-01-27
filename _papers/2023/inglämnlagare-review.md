@@ -16,6 +16,8 @@ An open peer review of:
 
 Löwenborg D and Antomonov F. Inglämnlagare: a tool for restructuring Swedish HER record site data for statistical analysis [version 2; peer review: 3 approved]. *F1000Research* 2023, 11:1370. <https://doi.org/10.12688/f1000research.126484.2>
 
+<!-- more -->
+
 ## Review
 
 The article describes a Python script that transforms data from the Swedish Historic Environment Record (HER) into a format more amenable for programmatic data analysis. Inglämnlagare addresses an increasingly common problem in computational archaeology: making institutional open data resources, which are often designed with specific use-cases and/or end-user software in mind, available for general use in modern data analysis pipelines. In that sense reminds me of a similar recently-developed R tool for processing sites records from US federal agencies[^1].
