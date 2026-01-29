@@ -22,9 +22,9 @@ author:
     [&rarr;](https://webring.archaeo.social/next?host=joeroe.io)
   location: "Copenhagen, Denmark"
   links:
-    - label: "joe@joeroe.io"
+    - label: "joeroe@archaeo.dev"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:joe@joeroe.io"
+      url: "mailto:joeroe@archaeo.dev"
     - label: "0000-0002-1011-1244"
       icon: "ai ai-fw ai-orcid"
       url: "https://orcid.org/0000-0002-1011-1244"
