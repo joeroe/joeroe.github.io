@@ -9,7 +9,7 @@ journal: Open Quaternary
 volume: 12
 pages: 2
 url: https://openquaternary.com/articles/10.5334/oq.163
-doi: https://doi.org/10.5334/oq.163
+doi: 10.5334/oq.163
 reviewed: true
 redirect_from:
 - /papers/2025/w_asia_enm
