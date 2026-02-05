@@ -7,7 +7,6 @@ month: 2
 title: "Biogeography of crop progenitors and wild plant resources in the terminal Pleistocene and Early Holocene of West Asia, 14.7–8.3 ka"
 journal: Open Quaternary
 volume: 12
-pages: 2
 url: https://openquaternary.com/articles/10.5334/oq.163
 doi: 10.5334/oq.163
 reviewed: true
