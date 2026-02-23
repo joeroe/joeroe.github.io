@@ -2,8 +2,6 @@
 layout: archive
 ---
 
-{{ content }}
-
 {% assign papers_by_year = site[page.collection] | where: 'reviewed', true | group_by: 'year' | sort: 'name' | reverse %}
 
 {% for year in papers_by_year %}
@@ -24,3 +22,6 @@ layout: archive
     <li>{% include citation.html pub=otherpaper %}</li>
     {% endfor %}
 </ul>
+
+{{ content }}
+
