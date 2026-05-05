@@ -35,6 +35,7 @@ software,[stratigraphr](https://stratigraphr.joeroe.io): R package for archaeolo
 software,[fieldwalkr](https://github.com/joeroe/fieldwalkr): R package for spatial sampling and survey simulation,,,,2019,,,,,,,TRUE
 software,[rpaleoclim](https://github.com/joeroe/rpaleoclim): R Interface to the PaleoClim Paleoclimate Database,,,,2018,,,,,,,TRUE
 software,[piwigo-3dhop](https://github.com/joeroe/piwigo-3dhop): [Piwigo](https://piwigo.org/) plugin for 3D models,,,,2018,,,,,,,TRUE
+field,Survey director,Wadi al-Dahek Survey,Jordan,,2025,,,,,,,
 field,Field director,[Shubayqa Archaeological Project](https://shubeika.ccrs.ku.dk/),Jordan,,2019,,,,,,,
 field,Field archaeologist,[Ancient Socioecological Systems in Oman (ASOM) project](https://u.osu.edu/asomproject/),Oman,,2018,,,,,,,
 field,Supervisor,Razavar Valley Survey,Iran,,2018,,,,,,,
