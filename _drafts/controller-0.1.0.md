@@ -1,7 +1,6 @@
 ---
 title: "controller: tidy messy terminology in R with controlled vocabularies"
 tag: R
-draft: true
 ---
 
 [controller](https://controller.joeroe.io) is an R package for working with controlled vocabularies. 
