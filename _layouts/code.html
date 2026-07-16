@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-{% assign code = site[page.collection] | sort: 'version' | reverse %}
+{% assign code = site[page.collection] | sort: 'year' | reverse %}
 
 <div class="feature__wrapper">
 	{% for program in code %}

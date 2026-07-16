@@ -1,8 +1,8 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
-year: 2022 # for version below
-version: '0.4.1'
+year: 2024 # for version below
+version: '0.5.0'
 short_name: era
 title: "era: R package for years with an era"
 website: https://era.joeroe.io
@@ -18,6 +18,7 @@ Functions for converting between eras and for type-stable arithmetic with years 
 
 ## News
 
+* 2024-11-20: [era 0.5.0: chronological ordering and extremes](2024/11/20/era-0.5.0.html)
 * 2021-02-07: [era 0.3.1: year-based time scales in R](2021/02/07/era-0.3.1.html)
 * 2020-11-12: [Beta release of era](2020/11/12/era-beta.html) 
 

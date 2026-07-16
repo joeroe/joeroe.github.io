@@ -1,8 +1,8 @@
 ---
 authors: "Joe Roe"
 authors_short: "Roe, J."
-year: 2018 # for version below
-version: '0.3.1'
+year: 2025 # for version below
+version: '1.1.0'
 short_name: fieldwalkr
 title: "fieldwalkr: R package for spatial sampling and survey simulation"
 website: "https://github.com/joeroe/fieldwalkr"
