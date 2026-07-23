@@ -14,7 +14,7 @@ It introduces the `control()` verb, which recodes values in a vector using a loo
 
 ## News
 
-* 2026-07-23: [controller: tidy messy terminology in R with controlled vocabularies](/2026/07/23/controller-0.1.0/)
+* 2026-07-23: [controller: tidy messy terminology in R with controlled vocabularies](/2026/07/23/controller-0.1.0.html)
 
 ## Links
 
