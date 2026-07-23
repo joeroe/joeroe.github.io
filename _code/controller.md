@@ -6,7 +6,7 @@ version: '0.1.0'
 short_name: controller
 title: "controller: R package for controlled vocabularies"
 website: https://controller.joeroe.io
-doi: ""
+doi: "https://doi.org/10.5281/zenodo.21515711"
 ---
 
 **controller** is a collection of functions for working with controlled vocabularies in R. 
