@@ -13,7 +13,7 @@ doi: 10.5281/zenodo.7886326
 
 ## News
 
-* 2023-05-02: [rpaleoclim v1.0.0: paleoclimate data in R](2023/05/02/rpaleoclim-1.0.0.html)
+* 2023-05-02: [rpaleoclim v1.0.0: paleoclimate data in R](/2023/05/02/rpaleoclim-1.0.0.html)
 
 ## Links
 

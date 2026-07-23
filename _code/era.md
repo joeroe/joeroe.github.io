@@ -18,9 +18,9 @@ Functions for converting between eras and for type-stable arithmetic with years 
 
 ## News
 
-* 2024-11-20: [era 0.5.0: chronological ordering and extremes](2024/11/20/era-0.5.0.html)
-* 2021-02-07: [era 0.3.1: year-based time scales in R](2021/02/07/era-0.3.1.html)
-* 2020-11-12: [Beta release of era](2020/11/12/era-beta.html) 
+* 2024-11-20: [era 0.5.0: chronological ordering and extremes](/2024/11/20/era-0.5.0.html)
+* 2021-02-07: [era 0.3.1: year-based time scales in R](/2021/02/07/era-0.3.1.html)
+* 2020-11-12: [Beta release of era](/2020/11/12/era-beta.html) 
 
 ## Links
 
