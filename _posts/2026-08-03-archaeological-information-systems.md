@@ -24,7 +24,7 @@ This makes AIS a rather interesting, experimental niche within archaeological re
 
 ## Summary of available archaeological information systems
 
-| Software                                         | Developer                         | Open source | Self-hostable | Price                                    | Notable users                             |
+| Software                                         | Developer                         | Open source | Self-hostable | Price^^*^^                               | Notable users                             |
 |--------------------------------------------------|-----------------------------------|-------------|---------------|------------------------------------------|-------------------------------------------|
 | [ARCHES](https://www.archesproject.org/)         | 🇺🇸 Getty Conservation Institute | ✅          | ✅            | Free                                     | UK Historic Environment Registers         |
 |--------------------------------------------------|-----------------------------------|-------------|---------------|------------------------------------------|-------------------------------------------|
@@ -48,6 +48,8 @@ This makes AIS a rather interesting, experimental niche within archaeological re
 |--------------------------------------------------|-----------------------------------|-------------|---------------|------------------------------------------|-------------------------------------------|
 | [OpenAtlas](https://openatlas.eu/)               | 🇦🇹 Austrian Academy of Sciences | ✅          | ✅            | Free                                     |                                           |
 |--------------------------------------------------|-----------------------------------|-------------|---------------|------------------------------------------|-------------------------------------------|
+
+^^*^^ The prices given are those of the software's 'standard' plan. For details of other plans, offers, or add-ons, see the individual sections below.
 
 ## How to choose an archaeological information system?
 
@@ -73,10 +75,10 @@ Some systems I have not been able to try at all; where this is the case, it is n
 | Feature           | ARCHES | ArcheoBase | ARK | Diggit | Field | FAIMS | Intrasis | Ishtar | Kiosk | MuseumsGIS | OpenAtlas |
 |-------------------|--------|------------|-----|--------|-------|-------|----------|--------|-------|------------|-----------|
 | Mobile app        | ❌     | ✅         | ❌  | ✅     | ❌    | ✅    | ✅       | ❌     | ✅    | ✅         | ❌        |
-| Offline recording | ❓     | ❓         | ❌  | ✅     | ✅    | ✅    | ❓       | ❌     | ✅    | ❓         | ❌        |
+| Offline recording | ❓     | ❌         | ❌  | ✅     | ✅    | ✅    | ❓       | ❌     | ✅    | ❓         | ❌        |
 | Harris matrix     | ❓     | ✅         | ✅  | ❓     | ✅    | ❌    | ❓       | ✅     | ✅    | ❓         | ❓        |
-| Mapping           | ✅     | ❓         | ✅  | ❌     | ✅    | ✅    | ✅       | ✅     | ❓    | ✅         | ✅        |
-| GIS integration   | ✅     | ❓         | ✅  | ✅     | ✅    | ✅    | ✅       | ✅     | ❓    | ✅         | ✅        |
+| Mapping           | ✅     | ✅         | ✅  | ❌     | ✅    | ✅    | ✅       | ✅     | ❓    | ✅         | ✅        |
+| GIS integration   | ✅     | ✅         | ✅  | ✅     | ✅    | ✅    | ✅       | ✅     | ❓    | ✅         | ✅        |
 | Public portal     | ✅     | ✅         | ✅  | ❓     | ❓    | ❌    | ❓       | ✅     | ❓    | ✅         | ✅        |
 
 Mobile app
@@ -202,9 +204,9 @@ Its sophisticated data model and emphasis on complex relational structures may b
 It covers the full chain of archaeological information processing through modular sub-applications: Archeo Entry (data input), Archeo Analysis, Archeo Publication, Archeo View (public dissemination), Archeo Forum (community), and Archeo Archive.
 Available in multiple European languages, it is priced at 23 CHF per user per month and offers a mobile app for field recording.
 
-ArcheoBase presents a very comprehensive and well-designed system with an impressive range of features covering the full spectrum of archaeological information management.
-The modular architecture and multilingual support demonstrate careful attention to user needs.
-The pricing model does not work well in a research context, where fieldwork is seasonal and typically involves large numbers of temporary staff.
+ArcheoBase is the most full-featured and polished archaeological information system currently available, with an impressive range of features and a modern and professional user interface.
+However its cloud-based architecture does not appear to permit offline recording, which is a significant limitation for archaeologists working in remote locations.
+Additionally, the pricing model does not work well in a research context, where fieldwork is seasonal and typically involves large numbers of temporary staff. 
 The developers have indicated they are introducing a new pricing plan specifically for universities, which may address this concern if implemented at a level accessible to academic institutions.
 
 ### Diggit
