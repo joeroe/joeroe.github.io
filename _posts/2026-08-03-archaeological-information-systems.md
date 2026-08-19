@@ -201,13 +201,15 @@ Its sophisticated data model and emphasis on complex relational structures may b
 ### ArcheoBase
 
 [ArcheoBase](https://archeobase.org/) is a cloud-based SaaS platform developed by the Swiss company [AnalyticBase Sàrl](https://archeobase.org/).
-It covers the full chain of archaeological information processing through modular sub-applications: Archeo Entry (data input), Archeo Analysis, Archeo Publication, Archeo View (public dissemination), Archeo Forum (community), and Archeo Archive.
-Available in multiple European languages, it is priced at 23 CHF per user per month and offers a mobile app for field recording.
+It covers the full chain of archaeological information processing through modular sub-applications and a mobile app for field recording.
+Available in multiple European languages, it is priced at 23 CHF per user per month with discounts for larger institutions.
+For universities, AnalyticBase offer an academic plan where students can receive free access so long as faculty have a license.
 
 ArcheoBase is the most full-featured and polished archaeological information system currently available, with an impressive range of features and a modern and professional user interface.
+It is also one of the few available multilingual systems.
 However its cloud-based architecture does not appear to permit offline recording, which is a significant limitation for archaeologists working in remote locations.
-Additionally, the pricing model does not work well in a research context, where fieldwork is seasonal and typically involves large numbers of temporary staff. 
-The developers have indicated they are introducing a new pricing plan specifically for universities, which may address this concern if implemented at a level accessible to academic institutions.
+The annual pricing model does not work well in a research context, where fieldwork is seasonal and typically involves large numbers of temporary staff, and will likely be too expensive for many higher education institutions (though the academic plan alleviates this concern in an educational setting).
+It also raises the concern of vendor lock-in for institutions with long-term projects and/or a commitment to open source.
 
 ### Diggit
 
@@ -246,8 +248,7 @@ It is built on free and open source software but requires a licence to use, cost
 It comprises a project presentation website (dynamically pulling excavation data including 3D models, historical maps, and geophysics), a mobile field registration app, and QGIS plugins including the FeltTegn tool for converting GPS data to archaeological features.
 Data is stored on a central database server with full version history at the object level, and is immediately available to both mobile devices and QGIS.
 
-MuseumsGIS is relatively new with a very impressive feature set that addresses many of the practical requirements of modern archaeological recording:
-integration of 3D models, geophysical data, and real-time synchronisation between field devices and QGIS.
+MuseumsGIS is relatively new with an impressive feature set that addresses many of the practical requirements of modern archaeological recording.
 It is currently tightly tailored to the Danish museum sector in its design and pricing;
 but the fact that it is built on an open source technology stack means that, in principle, the system could be forked and adapted by other institutions or communities.
 
@@ -256,6 +257,7 @@ but the fact that it is built on an open source technology stack means that, in 
 I will keep this page updated as often as possible.
 Please feel free to contact me with updates, corrections, or suggested additions.
 
+* 2026-08-19: added information on ArcheoBase's academic pricing plan
 * 2026-08-03: first version
 
 ## References
