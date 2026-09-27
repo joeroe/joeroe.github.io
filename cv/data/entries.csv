@@ -8,7 +8,6 @@ academic_employment,Assistant professor (*adjunkt*),"Department of Cross-Cultura
 academic_employment,Research assistant (*Projektmitarbeiter*),"Institute of Archaeological Sciences, University of Bern",,2021,2024,"Lead developer of [XRONOS](https://xronos.ch/), an open repository for chronometric data (PIs: Dr. Martin Hinz, Prof. Albert Hafner)","Collaborator on research project, ""Climate Change Resilience and Vulnerabilities of Bronze Age Waterfront Communities (2200-800 BC)"" (PI: Dr. Caroline Heitz)",,,,,TRUE
 academic_employment,Research assistant (*Videnskabelig assistent*),"Department of Cross-Cultural and Regional Studies, University of Copenhagen",,2017,2020,"Responsibility for archaeological survey and spatial analysis components of major field projects in Iran and Jordan (PIs: Dr. Tobias Richter, Prof. Peder Mortensen)",Developed databases and software interfaces for the projects' research data,,,,,TRUE
 grant,Young Researchers’ Promotion Fund,And other internal funds,University of Bern,,2022,"7300 CHF for ‘Digital Archaeology Bern 2023’
-
 ",Small grants for conference and workshop participation,,,,,
 grant,Project grant,Danmarks Frie Forskningsfond,,,2019,"""Connecting the Dots: Reconfiguring the Indo-European family tree""",Named applicant. PI: Dr. Thomas Olander,,,,,
 grant,Fieldwork grant,Det Danske Institut i Damaskus,,,2018,"115,000 DKK to support archaeological fieldwork in eastern Jordan (2019)",Co-applicant with Dr. Tobias Richter,,,,,
@@ -20,14 +19,12 @@ grant,PhD Studentship,Leverhulme Trust,,,2013,Part of Research Project Grant RPG
 grant,Research-preparation Masters Award,Arts and Humanities Research Council,,,2012,,,,,,,
 papers,"[20,000 years of societal vulnerability and adaptation to climate change in southwest Asia](https://doi.org/10.1002/wat2.1330)",*WIRES Water*,,,2019,,,,,,,TRUE
 papers,"[Mutable mobilities: 15,000 years of nomadic settlement in the Qa' Shubayqa, eastern Jordan](https://joeroe.io/talks/2019/sas2019_shubs.html)",Seminar for Arabian Studies,Leiden,,2019,,,,,,,TRUE
-papers,"[The Q Continuum: open source GIS tools for paperless field survey](https://joeroe.io/posters/2019/caa2019_qcontinuum.html)
-",CAA conference,Kraków,,2019,,,,,,,TRUE
+papers,[The Q Continuum: open source GIS tools for paperless field survey](https://joeroe.io/posters/2019/caa2019_qcontinuum.html),CAA conference,Kraków,,2019,,,,,,,TRUE
 papers,[A halfway house: open source tools for tidy photographic and 3D data management between the field and the archive](https://joeroe.io/posters/2019/caa2019_halfway_house.html),CAA conference,Kraków,,2019,,,,,,,TRUE
 papers,"[""Founder crops"" v. wild plants: Assessing the plant-based diet of the last hunter-gatherers in southwest Asia](https://doi.org/10.1016/j.quascirev.2018.02.011)",*Quaternary Science Reviews*,,,2018,,,,,,,TRUE
 papers,[fieldwalkr: an R package for spatial sampling and field survey simulation](https://joeroe.io/talks/2018/lac2018_fieldwalkr.html),Landscape Archaeology Conference,Newcastle & Durham,,2018,,,,,,,TRUE
 papers,"[Faunal turnover in the Azraq Basin, eastern Jordan 28,000 to 9,000 cal BP, signalling climate change and human impact](https://doi.org/10.1016/j.yqres.2016.07.001)",*Quaternary Research*,,,2016,,,,,,,TRUE
-papers,"[A greener model of palaeoenvironments in the eastern Levant](https://joeroe.io/posters/2016/greener.html)
-",Unravelling the Palaeolithic' conference,Southhampton,,2016,,,,,,,TRUE
+papers,[A greener model of palaeoenvironments in the eastern Levant](https://joeroe.io/posters/2016/greener.html),Unravelling the Palaeolithic' conference,Southhampton,,2016,,,,,,,TRUE
 papers,[Open season: modelling prehistoric wildlife dynamics in Epipalaeolithic and Neolithic Jordan](https://joeroe.io/talks/2015/banea2015.html),BANEA annual conference,London,,2015,,,,,,,TRUE
 software,[rintchron](https://rintchron.joeroe.io): R interface to IntChron,,,,2020,,,,,,,TRUE
 software,[era](https://era.joeroe.io): R package for years with an era,,,,2020,,,,,,,TRUE
@@ -41,20 +38,19 @@ field,Field archaeologist,[Ancient Socioecological Systems in Oman (ASOM) projec
 field,Supervisor,Razavar Valley Survey,Iran,,2018,,,,,,,
 field,Field archaeologist & supervisor,Shubayqa Archaeological Project,Jordan,2015,2018,,,,,,,
 field,Field archaeologist,[Kharaneh IV Project](https://kharaneh.com/),Jordan,,2015,,,,,,,
-field,"Field archaeologist & supervisor
-",Tripillia Mega-Sites Project,Ukraine,2012,2014,,,,,,,
+field,Field archaeologist & supervisor,Tripillia Mega-Sites Project,Ukraine,2012,2014,,,,,,,
 field,Supervisor,Mirkovo Project,Bulgaria,,2012,,,,,,,
 field,Trainee,Tripillia Mega-Sites Project,Ukraine,,2009,,,,,,,
 field,Trainee,York Archaeological Trust,England,,2007,,,,,,,
-service,Peer review,Journals,,,,"*Journal of Open Source Software*: [#4335](https://github.com/openjournals/joss-reviews/issues/4335), [#5811](https://github.com/openjournals/joss-reviews/issues/5811)",*Journal of Open Archaeology Data* (2),[PCI Archaeology](https://archaeo.peercommunityin.org/): [#333](https://doi.org/10.24072/pci.archaeo.100333),*Advances in Archaeological Practice* (1); *Open Archaeology* (1); *Open Quaternary* (1); *PLOS ONE* (1); *Journal of Archaeological Science* (1),,,
-service,Member of Review College,[CAA International](https://caa-international.org),,2020,2023,Reviews completed: CAA2025 (4); CAA2024 (4); CAA2023 (3); CAA2022 (7); CAA2021 (8); CAA2020 (3),,,,,,
+service,Peer review,Journals,,,,"*Journal of Open Source Software*: [#4335](https://github.com/openjournals/joss-reviews/issues/4335), [#5811](https://github.com/openjournals/joss-reviews/issues/5811), [#9260](https://github.com/openjournals/joss-reviews/issues/9260)",*Journal of Open Archaeology Data* (2),"[PCI Archaeology](https://archaeo.peercommunityin.org/): [#333](https://doi.org/10.24072/pci.archaeo.100333), [#712](https://doi.org/10.5281/zenodo.20669352)",*Advances in Archaeological Practice* (1); *Open Archaeology* (1); *Open Quaternary* (1); *PLOS ONE* (1); *Journal of Archaeological Science* (1),,,
+service,Member of Review College,[CAA International](https://caa-international.org),,2020,2023,Reviews completed: CAA2026 (3); CAA2025 (4); CAA2024 (4); CAA2023 (3); CAA2022 (7); CAA2021 (8); CAA2020 (3),,,,,,
 service,Conference organiser,[Digital Archaeology Bern 2023](https://dab23.archaeological.science),Bern,,2023,,,,,,,
 service,Senior Editor,*[Papers from the Institute of Archaeology](https://www.pia-journal.co.uk/)*,University College London,2014,2016,,,,,,,
 service,Postgraduate Student Representative,UCL Institute of Archaeology,University College London,2014,2016,Communications Committee,Publications Committee,,,,,
 service,Editorial Assistant,*Papers from the Institute of Archaeology*,University College London,2013,2014,,,,,,,
 service,Session organiser,CAA2019,Kraków,,2019,S06: *Recent advances in spatial statistics for archaeology*,,,,,,
 service,Session organiser,CAA2021,Limassol,,2021,S17: *[Tools for the Revolution: developing packages for scientific programming in archaeology?](https://sslarch.github.io/sessions/sessioni/)*,,,,,,
-service,Session organiser,CAA2026,Vienna,,2026,S16: *["All Models are Wrong": Learning from Failure in Computational Archaeology](https://2026.caaconference.org/conference-sessions/)*,,,,,,
+service,Session organiser,CAA2026,Vienna,,2026,"S16: *[""All Models are Wrong"": Learning from Failure in Computational Archaeology](https://2026.caaconference.org/conference-sessions/)*",,,,,,
 service,Conference organiser,[Postgraduate Zooarchaeology Forum (PZAF)](https://pzaf2014.wordpress.com/),London,,2014,,,,,,,
 workshop,"""Desert archaeology and ecology""",Workshop,Al-Qadisiyah University,,2026,,,,,,,
 workshop,[MOSAICchrono Summer School](https://mosaicchrono-lscholtus-975e02cc7a9bff01c01b5a894c0ff6958a875432.gitlab.io/),International Summer School,"European Archaeological Centre, Bibracte",,2024,Invited guest lecturer,Led workshop on “radiocarbon and aoristic modelling”,,,,,

@@ -8,7 +8,7 @@ title: "Human Settlement and Water Availability at the Qa’ Shubayqa during the
 journal: EcoEvoRxiv
 url: https://ecoevorxiv.org/repository/view/14762/
 doi: 10.32942/X25T1T
-reviewed: false
+reviewed: true
 preprint: true
 ---
 
